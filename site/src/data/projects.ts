@@ -78,7 +78,7 @@ export const projects: Project[] = [
     { vimeoId: '755837736', title: 'Entertainment' },
     { vimeoId: '755837725', title: 'Pool' },
   ] },
-  { slug: 'choices', client: 'Choices', selectsDir: 'Choices', category: 'Entertainment', role: 'Senior Producer', format: 'Motion · 4 spots', description: 'Camping, Gill, Soccer, Guitar.' },
+  { slug: 'choices', client: 'Choices', selectsDir: 'Choices', category: 'Pharma', role: 'Senior Producer', format: 'Motion · 4 spots', description: 'Camping, Gill, Soccer, Guitar.' },
   { slug: 'presidio-theatre', client: 'Presidio Theatre', selectsDir: 'PresideoTheatre', category: 'Entertainment', role: 'Senior Producer', format: 'Stills · Magic Lamp' },
   { slug: 'kelsey-mcclellan-current', client: 'Current', selectsDir: 'Current', category: 'Tech', agency: 'Photographer: Kelsey McClellan', role: 'Senior Producer', format: 'Stills' },
   { slug: 'lvl-watch', client: 'LVL', selectsDir: 'LVLWatch', category: 'Tech', role: 'Senior Producer', format: 'Stills · Wearable' },

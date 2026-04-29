@@ -1,0 +1,90 @@
+---
+import Base from '../layouts/Base.astro';
+import { resume } from '../data/resume';
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+<Base title={`${resume.name} — Resume`} description="Senior Photo & Video Producer / Creative Technologist resume.">
+  <article class="resume">
+    <header class="cv-head">
+      <h1>{resume.name}</h1>
+      <p class="cv-title">{resume.title}</p>
+      <p class="cv-contact">
+        <span>{resume.contact.phone}</span>
+        &nbsp;·&nbsp;
+        <a href={`mailto:${resume.contact.email}`}>{resume.contact.email}</a>
+        &nbsp;·&nbsp;
+        <a href={resume.contact.linkedinUrl} target="_blank" rel="noopener">{resume.contact.linkedin}</a>
+      </p>
+      <div class="cv-actions" aria-hidden="true">
+        <a class="cv-btn" href={`${base}/resume.pdf`} download>Download PDF</a>
+        <a class="cv-btn ghost" href={`${base}/`}>← Portfolio</a>
+      </div>
+    </header>
+
+    <section class="cv-summary">
+      <p>{resume.summary}</p>
+    </section>
+
+    <section class="cv-section">
+      <h2>Experience</h2>
+      {resume.experience.map(role => (
+        <article class="cv-role">
+          <header>
+            <h3>{role.title}</h3>
+            <p class="cv-meta">
+              <span>{role.company}</span>
+              <span class="cv-dot">·</span>
+              <span>{role.location}</span>
+              <span class="cv-period">{role.period}</span>
+            </p>
+          </header>
+          <ul>
+            {role.bullets.map(b => <li>{b}</li>)}
+          </ul>
+        </article>
+      ))}
+    </section>
+
+    <section class="cv-section">
+      <h2>Skills</h2>
+      <div class="cv-skills">
+        {Object.entries(resume.skills).map(([group, items]) => (
+          <div class="cv-skill-group">
+            <h4>{group}</h4>
+            <p>{(items as string[]).join(' · ')}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="cv-section">
+      <h2>Education</h2>
+      {resume.education.map(e => (
+        <article class="cv-role">
+          <header>
+            <h3>{e.school}</h3>
+            <p class="cv-meta">
+              <span>{e.location}</span>
+              <span class="cv-period">{e.year}</span>
+            </p>
+          </header>
+          <p class="cv-degree">{e.degree}</p>
+        </article>
+      ))}
+    </section>
+
+    <section class="cv-section">
+      <h2>Certificates</h2>
+      <ul class="cv-certs">
+        {resume.certificates.map(c => (
+          <li>
+            <strong>{c.name}</strong>
+            <span class="cv-dot">·</span>
+            <span>{c.issuer}</span>
+            <span class="cv-period">{c.year}</span>
+          </li>
+        ))}
+      </ul>
+    </section>
+  </article>
+</Base>

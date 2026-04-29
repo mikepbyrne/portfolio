@@ -178,10 +178,13 @@
         "name": "atlantis-casino-resort-60s.mov",
         "slug": "atlantis-casino-resort-60s",
         "hash": "defdad7607e932b4fe1418e5778dea8a",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "atlantiscasino/atlantis-casino-resort-60s-poster.jpg"
-        ]
+          "atlantiscasino/atlantis-casino-resort-60s-poster.jpg",
+          "atlantiscasino/atlantis-casino-resort-60s.mp4"
+        ],
+        "poster": "atlantiscasino/atlantis-casino-resort-60s-poster.jpg",
+        "video": "atlantiscasino/atlantis-casino-resort-60s.mp4"
       }
     ]
   },
@@ -592,64 +595,85 @@
         "name": "trail-terrain-60s.mp4",
         "slug": "trail-terrain-60s",
         "hash": "0348cc9a320bb3c53e40cb131d662309",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-60s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-60s-poster.jpg",
+          "bfgoodrich/trail-terrain-60s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-60s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-60s.mp4"
       },
       {
         "name": "trail-terrain-active-30s.mp4",
         "slug": "trail-terrain-active-30s",
         "hash": "9793f8aefc33f9573a2e1f9f1bcadf14",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-active-30s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-active-30s-poster.jpg",
+          "bfgoodrich/trail-terrain-active-30s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-active-30s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-active-30s.mp4"
       },
       {
         "name": "trail-terrain-broad-30s.mp4",
         "slug": "trail-terrain-broad-30s",
         "hash": "9ab9e88f6c6dc83fe1fa615d4e87f2ef",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-broad-30s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-broad-30s-poster.jpg",
+          "bfgoodrich/trail-terrain-broad-30s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-broad-30s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-broad-30s.mp4"
       },
       {
         "name": "trail-terrain-built-to-last-15s.mp4",
         "slug": "trail-terrain-built-to-last-15s",
         "hash": "73a1e1fea28d622d410ae31de3aa038a",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-built-to-last-15s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-built-to-last-15s-poster.jpg",
+          "bfgoodrich/trail-terrain-built-to-last-15s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-built-to-last-15s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-built-to-last-15s.mp4"
       },
       {
         "name": "trail-terrain-core-30s.mp4",
         "slug": "trail-terrain-core-30s",
         "hash": "f59b445cc3cd094226ac6e83503daa5d",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-core-30s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-core-30s-poster.jpg",
+          "bfgoodrich/trail-terrain-core-30s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-core-30s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-core-30s.mp4"
       },
       {
         "name": "trail-terrain-engineered-to-explore-15s.mp4",
         "slug": "trail-terrain-engineered-to-explore-15s",
         "hash": "6cfff211079a48b77390236efe458f87",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-engineered-to-explore-15s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-engineered-to-explore-15s-poster.jpg",
+          "bfgoodrich/trail-terrain-engineered-to-explore-15s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-engineered-to-explore-15s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-engineered-to-explore-15s.mp4"
       },
       {
         "name": "trail-terrain-equipped-for-every-season-15s.mp4",
         "slug": "trail-terrain-equipped-for-every-season-15s",
         "hash": "d30f9476ee476833900c83274cef670c",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "bfgoodrich/trail-terrain-equipped-for-every-season-15s-poster.jpg"
-        ]
+          "bfgoodrich/trail-terrain-equipped-for-every-season-15s-poster.jpg",
+          "bfgoodrich/trail-terrain-equipped-for-every-season-15s.mp4"
+        ],
+        "poster": "bfgoodrich/trail-terrain-equipped-for-every-season-15s-poster.jpg",
+        "video": "bfgoodrich/trail-terrain-equipped-for-every-season-15s.mp4"
       }
     ]
   },
@@ -660,37 +684,49 @@
         "name": "core-15s.mp4",
         "slug": "core-15s",
         "hash": "fe848dc3f22752107ecb57e5a471885f",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "casper/core-15s-poster.jpg"
-        ]
+          "casper/core-15s-poster.jpg",
+          "casper/core-15s.mp4"
+        ],
+        "poster": "casper/core-15s-poster.jpg",
+        "video": "casper/core-15s.mp4"
       },
       {
         "name": "core-30s.mp4",
         "slug": "core-30s",
         "hash": "80496520988f59371d4acf85c3462cb1",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "casper/core-30s-poster.jpg"
-        ]
+          "casper/core-30s-poster.jpg",
+          "casper/core-30s.mp4"
+        ],
+        "poster": "casper/core-30s-poster.jpg",
+        "video": "casper/core-30s.mp4"
       },
       {
         "name": "steelworks-casper-live-dream-machine-cooling-us-30.mp4",
         "slug": "steelworks-casper-live-dream-machine-cooling-us-30",
         "hash": "a0510fd8b56939fe9210400d90e8c091",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "casper/steelworks-casper-live-dream-machine-cooling-us-30-poster.jpg"
-        ]
+          "casper/steelworks-casper-live-dream-machine-cooling-us-30-poster.jpg",
+          "casper/steelworks-casper-live-dream-machine-cooling-us-30.mp4"
+        ],
+        "poster": "casper/steelworks-casper-live-dream-machine-cooling-us-30-poster.jpg",
+        "video": "casper/steelworks-casper-live-dream-machine-cooling-us-30.mp4"
       },
       {
         "name": "steelworks-dream-machine-core-60.mp4",
         "slug": "steelworks-dream-machine-core-60",
         "hash": "6a962f87211fe9306c31ea3a33f1eefe",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "casper/steelworks-dream-machine-core-60-poster.jpg"
-        ]
+          "casper/steelworks-dream-machine-core-60-poster.jpg",
+          "casper/steelworks-dream-machine-core-60.mp4"
+        ],
+        "poster": "casper/steelworks-dream-machine-core-60-poster.jpg",
+        "video": "casper/steelworks-dream-machine-core-60.mp4"
       }
     ]
   },
@@ -701,37 +737,49 @@
         "name": "camping.mp4",
         "slug": "camping",
         "hash": "116ef44bb0fe37f8608857fa3b0bedc7",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "choices/camping-poster.jpg"
-        ]
+          "choices/camping-poster.jpg",
+          "choices/camping.mp4"
+        ],
+        "poster": "choices/camping-poster.jpg",
+        "video": "choices/camping.mp4"
       },
       {
         "name": "gill.mp4",
         "slug": "gill",
         "hash": "0adb5f4203b2126089288a8430dce090",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "choices/gill-poster.jpg"
-        ]
+          "choices/gill-poster.jpg",
+          "choices/gill.mp4"
+        ],
+        "poster": "choices/gill-poster.jpg",
+        "video": "choices/gill.mp4"
       },
       {
         "name": "guitar.mp4",
         "slug": "guitar",
         "hash": "083d56cffe637d5cd660bd435916ff19",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "choices/guitar-poster.jpg"
-        ]
+          "choices/guitar-poster.jpg",
+          "choices/guitar.mp4"
+        ],
+        "poster": "choices/guitar-poster.jpg",
+        "video": "choices/guitar.mp4"
       },
       {
         "name": "soccer.mp4",
         "slug": "soccer",
         "hash": "79d7323b07a6812e45b076e0970b59a4",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "choices/soccer-poster.jpg"
-        ]
+          "choices/soccer-poster.jpg",
+          "choices/soccer.mp4"
+        ],
+        "poster": "choices/soccer-poster.jpg",
+        "video": "choices/soccer.mp4"
       }
     ]
   },
@@ -1639,37 +1687,49 @@
         "name": "escape-get-it-done.mp4",
         "slug": "escape-get-it-done",
         "hash": "c843d2d08d75e98f1f7f2b27981eb66c",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "ford/escape-get-it-done-poster.jpg"
-        ]
+          "ford/escape-get-it-done-poster.jpg",
+          "ford/escape-get-it-done.mp4"
+        ],
+        "poster": "ford/escape-get-it-done-poster.jpg",
+        "video": "ford/escape-get-it-done.mp4"
       },
       {
         "name": "escape-get-ready.mp4",
         "slug": "escape-get-ready",
         "hash": "ae6ffa3cf2a14d4ddaeb9bcf4af6e001",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "ford/escape-get-ready-poster.jpg"
-        ]
+          "ford/escape-get-ready-poster.jpg",
+          "ford/escape-get-ready.mp4"
+        ],
+        "poster": "ford/escape-get-ready-poster.jpg",
+        "video": "ford/escape-get-ready.mp4"
       },
       {
         "name": "escape-get-recharged.mp4",
         "slug": "escape-get-recharged",
         "hash": "ebcfbfc56ea5f103f5272a852f87c617",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "ford/escape-get-recharged-poster.jpg"
-        ]
+          "ford/escape-get-recharged-poster.jpg",
+          "ford/escape-get-recharged.mp4"
+        ],
+        "poster": "ford/escape-get-recharged-poster.jpg",
+        "video": "ford/escape-get-recharged.mp4"
       },
       {
         "name": "escape-get-your-angles.mp4",
         "slug": "escape-get-your-angles",
         "hash": "90bdc40ad218bb04c607db8b509071ec",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "ford/escape-get-your-angles-poster.jpg"
-        ]
+          "ford/escape-get-your-angles-poster.jpg",
+          "ford/escape-get-your-angles.mp4"
+        ],
+        "poster": "ford/escape-get-your-angles-poster.jpg",
+        "video": "ford/escape-get-your-angles.mp4"
       }
     ]
   },
@@ -1897,10 +1957,13 @@
         "name": "kt-tape.mp4",
         "slug": "kt-tape",
         "hash": "f9b52198124fce186be8d46bc0f2309e",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "kttape/kt-tape-poster.jpg"
-        ]
+          "kttape/kt-tape-poster.jpg",
+          "kttape/kt-tape.mp4"
+        ],
+        "poster": "kttape/kt-tape-poster.jpg",
+        "video": "kttape/kt-tape.mp4"
       }
     ]
   },
@@ -2445,28 +2508,37 @@
         "name": "monarch-instagram.mp4",
         "slug": "monarch-instagram",
         "hash": "17e6934841dfb644528300cdf3a69c64",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "monarchcasinos/monarch-instagram-poster.jpg"
-        ]
+          "monarchcasinos/monarch-instagram-poster.jpg",
+          "monarchcasinos/monarch-instagram.mp4"
+        ],
+        "poster": "monarchcasinos/monarch-instagram-poster.jpg",
+        "video": "monarchcasinos/monarch-instagram.mp4"
       },
       {
         "name": "monarch-resort-30s-erik-almas.mov",
         "slug": "monarch-resort-30s-erik-almas",
         "hash": "53494b24d3176b2713992a6872eaf7aa",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "monarchcasinos/monarch-resort-30s-erik-almas-poster.jpg"
-        ]
+          "monarchcasinos/monarch-resort-30s-erik-almas-poster.jpg",
+          "monarchcasinos/monarch-resort-30s-erik-almas.mp4"
+        ],
+        "poster": "monarchcasinos/monarch-resort-30s-erik-almas-poster.jpg",
+        "video": "monarchcasinos/monarch-resort-30s-erik-almas.mp4"
       },
       {
         "name": "monarch-resort.mp4",
         "slug": "monarch-resort",
         "hash": "7599de933a78ba93f0602a6cc690b9c9",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "monarchcasinos/monarch-resort-poster.jpg"
-        ]
+          "monarchcasinos/monarch-resort-poster.jpg",
+          "monarchcasinos/monarch-resort.mp4"
+        ],
+        "poster": "monarchcasinos/monarch-resort-poster.jpg",
+        "video": "monarchcasinos/monarch-resort.mp4"
       }
     ]
   },
@@ -2477,28 +2549,37 @@
         "name": "erik-almas-boater.mp4",
         "slug": "erik-almas-boater",
         "hash": "11cc49cb96ff919c82fff618b2d0efe8",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "neom/erik-almas-boater-poster.jpg"
-        ]
+          "neom/erik-almas-boater-poster.jpg",
+          "neom/erik-almas-boater.mp4"
+        ],
+        "poster": "neom/erik-almas-boater-poster.jpg",
+        "video": "neom/erik-almas-boater.mp4"
       },
       {
         "name": "erik-almas-hikers.mp4",
         "slug": "erik-almas-hikers",
         "hash": "b56c286da5257e790d39ffeb8f7fb1c6",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "neom/erik-almas-hikers-poster.jpg"
-        ]
+          "neom/erik-almas-hikers-poster.jpg",
+          "neom/erik-almas-hikers.mp4"
+        ],
+        "poster": "neom/erik-almas-hikers-poster.jpg",
+        "video": "neom/erik-almas-hikers.mp4"
       },
       {
         "name": "erik-almas-monolith.mp4",
         "slug": "erik-almas-monolith",
         "hash": "fa5973b885e8282a4eaa04030448bed8",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "neom/erik-almas-monolith-poster.jpg"
-        ]
+          "neom/erik-almas-monolith-poster.jpg",
+          "neom/erik-almas-monolith.mp4"
+        ],
+        "poster": "neom/erik-almas-monolith-poster.jpg",
+        "video": "neom/erik-almas-monolith.mp4"
       },
       {
         "name": "erik-almas-neom-boater-15k.rgb-66-wide-15-native-cropped.jpg",
@@ -2629,19 +2710,25 @@
         "name": "newport-beach-lido-rooftop.mp4",
         "slug": "newport-beach-lido-rooftop",
         "hash": "d6e7bef52d348accd9dea0fa0241d995",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "newportbeachtourism/newport-beach-lido-rooftop-poster.jpg"
-        ]
+          "newportbeachtourism/newport-beach-lido-rooftop-poster.jpg",
+          "newportbeachtourism/newport-beach-lido-rooftop.mp4"
+        ],
+        "poster": "newportbeachtourism/newport-beach-lido-rooftop-poster.jpg",
+        "video": "newportbeachtourism/newport-beach-lido-rooftop.mp4"
       },
       {
         "name": "newport-beach-surfboard.mp4",
         "slug": "newport-beach-surfboard",
         "hash": "6c925e18d1887ec5e37f8f9c152be71c",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "newportbeachtourism/newport-beach-surfboard-poster.jpg"
-        ]
+          "newportbeachtourism/newport-beach-surfboard-poster.jpg",
+          "newportbeachtourism/newport-beach-surfboard.mp4"
+        ],
+        "poster": "newportbeachtourism/newport-beach-surfboard-poster.jpg",
+        "video": "newportbeachtourism/newport-beach-surfboard.mp4"
       }
     ]
   },
@@ -2652,10 +2739,13 @@
         "name": "fingerpaint.mp4",
         "slug": "fingerpaint",
         "hash": "1b83db41775a314232cc0902df26ad9f",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "optinose/fingerpaint-poster.jpg"
-        ]
+          "optinose/fingerpaint-poster.jpg",
+          "optinose/fingerpaint.mp4"
+        ],
+        "poster": "optinose/fingerpaint-poster.jpg",
+        "video": "optinose/fingerpaint.mp4"
       }
     ]
   },
@@ -2666,55 +2756,73 @@
         "name": "holiday-party.mp4",
         "slug": "holiday-party",
         "hash": "c22a4e63846fa0e0f8eb2623bee492c4",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/holiday-party-poster.jpg"
-        ]
+          "oura/holiday-party-poster.jpg",
+          "oura/holiday-party.mp4"
+        ],
+        "poster": "oura/holiday-party-poster.jpg",
+        "video": "oura/holiday-party.mp4"
       },
       {
         "name": "holiday-yard-work.mp4",
         "slug": "holiday-yard-work",
         "hash": "68c0f683644aa8840b3594c85d018edc",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/holiday-yard-work-poster.jpg"
-        ]
+          "oura/holiday-yard-work-poster.jpg",
+          "oura/holiday-yard-work.mp4"
+        ],
+        "poster": "oura/holiday-yard-work-poster.jpg",
+        "video": "oura/holiday-yard-work.mp4"
       },
       {
         "name": "meditation-giftwrap.mp4",
         "slug": "meditation-giftwrap",
         "hash": "8948a70ddd9922f39216b4630bb78d94",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/meditation-giftwrap-poster.jpg"
-        ]
+          "oura/meditation-giftwrap-poster.jpg",
+          "oura/meditation-giftwrap.mp4"
+        ],
+        "poster": "oura/meditation-giftwrap-poster.jpg",
+        "video": "oura/meditation-giftwrap.mp4"
       },
       {
         "name": "santas-nap.mp4",
         "slug": "santas-nap",
         "hash": "2082e4b978a38312aa5f02abbda0a3df",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/santas-nap-poster.jpg"
-        ]
+          "oura/santas-nap-poster.jpg",
+          "oura/santas-nap.mp4"
+        ],
+        "poster": "oura/santas-nap-poster.jpg",
+        "video": "oura/santas-nap.mp4"
       },
       {
         "name": "sleep-sounds.mp4",
         "slug": "sleep-sounds",
         "hash": "8166e008a0ef67d9b41093b9e75efa49",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/sleep-sounds-poster.jpg"
-        ]
+          "oura/sleep-sounds-poster.jpg",
+          "oura/sleep-sounds.mp4"
+        ],
+        "poster": "oura/sleep-sounds-poster.jpg",
+        "video": "oura/sleep-sounds.mp4"
       },
       {
         "name": "workout-pingpong.mp4",
         "slug": "workout-pingpong",
         "hash": "a52b5a6c8d3f70091390906ac5a8ee0f",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "oura/workout-pingpong-poster.jpg"
-        ]
+          "oura/workout-pingpong-poster.jpg",
+          "oura/workout-pingpong.mp4"
+        ],
+        "poster": "oura/workout-pingpong-poster.jpg",
+        "video": "oura/workout-pingpong.mp4"
       }
     ]
   },
@@ -2943,19 +3051,25 @@
         "name": "vegas-entertainment.mov",
         "slug": "vegas-entertainment",
         "hash": "101ea5b4d6019655411107ddfeb575e5",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "resortworld/vegas-entertainment-poster.jpg"
-        ]
+          "resortworld/vegas-entertainment-poster.jpg",
+          "resortworld/vegas-entertainment.mp4"
+        ],
+        "poster": "resortworld/vegas-entertainment-poster.jpg",
+        "video": "resortworld/vegas-entertainment.mp4"
       },
       {
         "name": "vegas-pool.mov",
         "slug": "vegas-pool",
         "hash": "6fd727fb040754389c1546177e4f65e2",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "resortworld/vegas-pool-poster.jpg"
-        ]
+          "resortworld/vegas-pool-poster.jpg",
+          "resortworld/vegas-pool.mp4"
+        ],
+        "poster": "resortworld/vegas-pool-poster.jpg",
+        "video": "resortworld/vegas-pool.mp4"
       }
     ]
   },
@@ -3059,19 +3173,25 @@
         "name": "crown-signia-effortless-elegance.mp4",
         "slug": "crown-signia-effortless-elegance",
         "hash": "238f66c330626d8b932ba5e4da4b02b0",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "toyota/crown-signia-effortless-elegance-poster.jpg"
-        ]
+          "toyota/crown-signia-effortless-elegance-poster.jpg",
+          "toyota/crown-signia-effortless-elegance.mp4"
+        ],
+        "poster": "toyota/crown-signia-effortless-elegance-poster.jpg",
+        "video": "toyota/crown-signia-effortless-elegance.mp4"
       },
       {
         "name": "land-cruiser-mountain-cliff.mp4",
         "slug": "land-cruiser-mountain-cliff",
         "hash": "fa9220178cf7a8de6fa5ab96ce7e1c4f",
-        "type": "video-poster",
+        "type": "video",
         "outputs": [
-          "toyota/land-cruiser-mountain-cliff-poster.jpg"
-        ]
+          "toyota/land-cruiser-mountain-cliff-poster.jpg",
+          "toyota/land-cruiser-mountain-cliff.mp4"
+        ],
+        "poster": "toyota/land-cruiser-mountain-cliff-poster.jpg",
+        "video": "toyota/land-cruiser-mountain-cliff.mp4"
       }
     ]
   }

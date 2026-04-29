@@ -136,16 +136,36 @@ async function processVideo(src, outDir, baseName, cache) {
   }
 
   const posterPath = path.join(outDir, `${baseName}-poster.jpg`);
+  let posterOk = false;
   try {
     execSync(`ffmpeg -y -ss 1 -i "${src}" -frames:v 1 -q:v 3 -vf "scale=1600:-2" "${posterPath}"`, { stdio: 'pipe' });
+    posterOk = true;
   } catch (e) {
     console.warn(`[poster fail] ${src}`);
-    return null;
   }
+
+  // For local-only videos (e.g. Choices), transcode to web-optimized 1080p H.264 MP4
+  // so the page can play them inline.
+  const videoOut = path.join(outDir, `${baseName}.mp4`);
+  let videoOk = false;
+  try {
+    // -movflags +faststart for streaming, -crf 24 for good quality, scale to max 1920w
+    execSync(`ffmpeg -y -i "${src}" -vf "scale='min(1920,iw)':-2" -c:v libx264 -preset medium -crf 24 -c:a aac -b:a 128k -movflags +faststart "${videoOut}"`, { stdio: 'pipe' });
+    videoOk = true;
+  } catch (e) {
+    console.warn(`[video transcode fail] ${src}: ${e.message?.slice(0,80) || ''}`);
+  }
+
+  const outputs = [];
+  if (posterOk) outputs.push(path.relative(OUT, posterPath));
+  if (videoOk) outputs.push(path.relative(OUT, videoOut));
+
   const result = {
     hash,
-    type: 'video-poster',
-    outputs: [path.relative(OUT, posterPath)],
+    type: videoOk ? 'video' : 'video-poster',
+    outputs,
+    poster: posterOk ? path.relative(OUT, posterPath) : null,
+    video: videoOk ? path.relative(OUT, videoOut) : null,
   };
   cache[src] = result;
   return result;

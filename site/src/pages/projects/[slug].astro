@@ -18,6 +18,7 @@ const mSlug = project.selectsDir ? manifestSlug(project.selectsDir) : null;
 const allAssets = mSlug && manifest[mSlug] ? manifest[mSlug].assets : [];
 const stills = allAssets.filter(a => a.type === 'image');
 const gifs = allAssets.filter(a => a.type === 'gif');
+const localVideos = allAssets.filter(a => a.type === 'video' && a.video);
 
 // Index for prev/next nav
 const idx = projects.findIndex(p => p.slug === project.slug);
@@ -55,6 +56,22 @@ function defaultSrc(asset) {
     </aside>
 
     <div class="assets-col">
+      {(!project.videos || project.videos.length === 0) && localVideos.map((v, i) => (
+        <div class="asset">
+          <span class="frame-num">M.{String(i + 1).padStart(3, '0')}</span>
+          <video
+            controls
+            preload="metadata"
+            playsinline
+            poster={v.poster ? `${base}/media/${v.poster}` : undefined}
+            controlsList="nodownload"
+            oncontextmenu="return false;"
+          >
+            <source src={`${base}/media/${v.video}`} type="video/mp4" />
+          </video>
+        </div>
+      ))}
+
       {project.videos && project.videos.map((v, i) => {
         const src = v.vimeoId
           ? `https://player.vimeo.com/video/${v.vimeoId}?title=0&byline=0&portrait=0&dnt=1`
@@ -109,7 +126,7 @@ function defaultSrc(asset) {
         </figure>
       ))}
 
-      {(!project.videos || project.videos.length === 0) && stills.length === 0 && gifs.length === 0 && (
+      {(!project.videos || project.videos.length === 0) && stills.length === 0 && gifs.length === 0 && localVideos.length === 0 && (
         <div class="asset" style="padding: 32px; color: var(--ink-2); border: 1px dashed var(--hair);">No assets yet.</div>
       )}
     </div>
