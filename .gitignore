@@ -24,3 +24,7 @@ Icon?
 *.log
 .env
 .env.local
+
+# iCloud sync conflict copies
+**/* 2.*
+**/*\ 2.*
