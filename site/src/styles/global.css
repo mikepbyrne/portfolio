@@ -194,12 +194,6 @@ a:hover { color: var(--accent); }
   color: var(--ink-2);
 }
 .list-head .th { user-select: none; }
-.list-head .sortable { cursor: pointer; transition: color 0.15s; }
-.list-head .sortable:hover { color: var(--ink); }
-.list-head .sortable.asc, .list-head .sortable.desc { color: var(--accent); }
-.list-head .sortable i { font-style: normal; opacity: 0.4; margin-left: 4px; }
-.list-head .sortable.asc i::before { content: '↑'; opacity: 1; }
-.list-head .sortable.desc i::before { content: '↓'; opacity: 1; }
 .project-row:hover { padding-left: 12px; }
 .project-row .num {
   color: var(--ink-2);

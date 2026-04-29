@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { projects, CATEGORIES } from '../data/projects';
+import { projects } from '../data/projects';
 import manifest from '../data/manifest.json';
 
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -16,10 +16,6 @@ function previewFor(project) {
   const webp = first.outputs.find(o => o.includes('-1200.webp'));
   return `${base}/media/${webp}`;
 }
-
-// Category counts for filter badges
-const counts = {} as Record<string, number>;
-for (const p of projects) counts[p.category] = (counts[p.category] || 0) + 1;
 ---
 <Base>
   <section class="index">
@@ -30,8 +26,8 @@ for (const p of projects) counts[p.category] = (counts[p.category] || 0) + 1;
 
     <div class="list-head">
       <span class="num"></span>
-      <span class="th sortable" data-key="client">Client <i>↕</i></span>
-      <span class="th sortable" data-key="category">Category <i>↕</i></span>
+      <span class="th">Client</span>
+      <span class="th">Category</span>
       <span class="th">Format</span>
     </div>
 
@@ -40,7 +36,7 @@ for (const p of projects) counts[p.category] = (counts[p.category] || 0) + 1;
         const preview = previewFor(p);
         const num = String(i + 1).padStart(2, '0');
         return (
-          <li class="project-li" data-cat={p.category} data-client={p.client} data-format={p.format ?? ''}>
+          <li class="project-li">
             <a
               href={`${base}/projects/${p.slug}/`}
               class="project-row"
@@ -67,35 +63,6 @@ for (const p of projects) counts[p.category] = (counts[p.category] || 0) + 1;
       if (!src) return;
       row.addEventListener('pointerenter', () => { img.src = src; pane.classList.add('on'); });
       row.addEventListener('pointerleave', () => pane.classList.remove('on'));
-    });
-
-    const list = document.getElementById('project-list');
-
-    // Sort
-    let sortState = { key: null, asc: true };
-    document.querySelectorAll('.list-head .sortable').forEach(th => {
-      th.addEventListener('click', () => {
-        const key = th.dataset.key;
-        sortState.asc = sortState.key === key ? !sortState.asc : true;
-        sortState.key = key;
-        document.querySelectorAll('.list-head .sortable').forEach(s => s.classList.remove('asc','desc'));
-        th.classList.add(sortState.asc ? 'asc' : 'desc');
-
-        const items = Array.from(list.querySelectorAll('.project-li'));
-        items.sort((a, b) => {
-          const av = (a.dataset[key] || '').toLowerCase();
-          const bv = (b.dataset[key] || '').toLowerCase();
-          return (av < bv ? -1 : av > bv ? 1 : 0) * (sortState.asc ? 1 : -1);
-        });
-        items.forEach(it => list.appendChild(it));
-        // Renumber
-        let n = 1;
-        list.querySelectorAll('.project-li').forEach(li => {
-          if (li.style.display === 'none') return;
-          const numEl = li.querySelector('.num');
-          if (numEl) numEl.textContent = String(n++).padStart(2, '0');
-        });
-      });
     });
   </script>
 </Base>
