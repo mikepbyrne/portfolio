@@ -1,0 +1,117 @@
+---
+import Base from '../../layouts/Base.astro';
+import { projects } from '../../data/projects';
+import manifest from '../../data/manifest.json';
+
+export function getStaticPaths() {
+  return projects.map(p => ({ params: { slug: p.slug }, props: { project: p } }));
+}
+
+const { project } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Match selects → manifest slug
+function manifestSlug(name: string) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+const mSlug = project.selectsDir ? manifestSlug(project.selectsDir) : null;
+const allAssets = mSlug && manifest[mSlug] ? manifest[mSlug].assets : [];
+const stills = allAssets.filter(a => a.type === 'image');
+const gifs = allAssets.filter(a => a.type === 'gif');
+
+// Index for prev/next nav
+const idx = projects.findIndex(p => p.slug === project.slug);
+const prev = projects[(idx - 1 + projects.length) % projects.length];
+const next = projects[(idx + 1) % projects.length];
+
+function srcset(asset, ext: 'webp' | 'jpg') {
+  const items = asset.outputs.filter(o => o.endsWith(`.${ext}`));
+  return items.map(o => {
+    const w = (o.match(/-(\d+)\.(webp|jpg)$/) || [])[1];
+    return `${base}/media/${o} ${w}w`;
+  }).join(', ');
+}
+function defaultSrc(asset) {
+  const o = asset.outputs.find(x => x.includes('-1200.jpg')) || asset.outputs.find(x => x.endsWith('.jpg'));
+  return `${base}/media/${o}`;
+}
+---
+<Base title={`${project.client} — Mike Byrne`}>
+  <article class="project-detail">
+    <aside class="meta-col">
+      <h1>{project.client}</h1>
+      <dl>
+        <dt>Role</dt><dd>{project.role}</dd>
+        {project.agency && <><dt>Agency</dt><dd>{project.agency}</dd></>}
+        {project.year && <><dt>Year</dt><dd>{project.year}</dd></>}
+        {project.format && <><dt>Format</dt><dd>{project.format}</dd></>}
+      </dl>
+      {project.description && <p class="description">{project.description}</p>}
+
+      <div class="nav-pair">
+        <a href={`${base}/projects/${prev.slug}/`}>← Prev — {prev.client}</a>
+        <a href={`${base}/projects/${next.slug}/`}>Next — {next.client} →</a>
+      </div>
+    </aside>
+
+    <div class="assets-col">
+      {project.videos && project.videos.map((v, i) => {
+        const src = v.vimeoId
+          ? `https://player.vimeo.com/video/${v.vimeoId}?title=0&byline=0&portrait=0&dnt=1`
+          : `https://www.youtube-nocookie.com/embed/${v.youtubeId}?rel=0&modestbranding=1`;
+        return (
+          <div class="asset">
+            <span class="frame-num">M.{String(i + 1).padStart(3, '0')}</span>
+            <iframe
+              class="vimeo-frame"
+              data-aspect={v.aspect ?? '16x9'}
+              src={src}
+              loading="lazy"
+              allow="autoplay; fullscreen; picture-in-picture; encrypted-media"
+              allowfullscreen
+              title={v.title ?? project.client}
+            ></iframe>
+          </div>
+        );
+      })}
+
+      {gifs.map((asset, i) => (
+        <figure class="asset">
+          <span class="frame-num">G.{String(i + 1).padStart(3, '0')}</span>
+          <img
+            src={`${base}/media/${asset.outputs[0]}`}
+            loading="lazy"
+            decoding="async"
+            alt={`${project.client} — animated ${i + 1}`}
+            width={asset.width || undefined}
+            height={asset.height || undefined}
+          />
+        </figure>
+      ))}
+
+      {stills.map((asset, i) => (
+        <figure class="asset">
+          <span class="frame-num">F.{String(i + 1).padStart(3, '0')}</span>
+          <picture>
+            <source type="image/webp" srcset={srcset(asset, 'webp')} sizes="(min-width: 720px) 60vw, 100vw" />
+            <img
+              src={defaultSrc(asset)}
+              srcset={srcset(asset, 'jpg')}
+              sizes="(min-width: 720px) 60vw, 100vw"
+              loading={i < 2 ? 'eager' : 'lazy'}
+              decoding="async"
+              fetchpriority={i === 0 ? 'high' : 'auto'}
+              alt={`${project.client} — frame ${i + 1}`}
+              width={asset.width}
+              height={asset.height}
+            />
+          </picture>
+        </figure>
+      ))}
+
+      {(!project.videos || project.videos.length === 0) && stills.length === 0 && gifs.length === 0 && (
+        <div class="asset" style="padding: 32px; color: var(--ink-2); border: 1px dashed var(--hair);">No assets yet.</div>
+      )}
+    </div>
+  </article>
+</Base>

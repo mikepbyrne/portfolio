@@ -1,0 +1,101 @@
+---
+import Base from '../layouts/Base.astro';
+import { projects, CATEGORIES } from '../data/projects';
+import manifest from '../data/manifest.json';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+function previewFor(project) {
+  const slug = project.selectsDir
+    ? project.selectsDir.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+    : project.slug;
+  const m = manifest[slug];
+  if (!m) return null;
+  const first = m.assets.find(a => a.type === 'image' && a.outputs.some(o => o.includes('-1200.webp')));
+  if (!first) return null;
+  const webp = first.outputs.find(o => o.includes('-1200.webp'));
+  return `${base}/media/${webp}`;
+}
+
+// Category counts for filter badges
+const counts = {} as Record<string, number>;
+for (const p of projects) counts[p.category] = (counts[p.category] || 0) + 1;
+---
+<Base>
+  <section class="index">
+    <h1 class="index-intro">
+      Senior Producer<br />
+      <em>specializing in commercial<br />production — motion &amp; stills.</em>
+    </h1>
+
+    <div class="list-head">
+      <span class="num"></span>
+      <span class="th sortable" data-key="client">Client <i>↕</i></span>
+      <span class="th sortable" data-key="category">Category <i>↕</i></span>
+      <span class="th">Format</span>
+    </div>
+
+    <ol class="project-list" id="project-list">
+      {projects.map((p, i) => {
+        const preview = previewFor(p);
+        const num = String(i + 1).padStart(2, '0');
+        return (
+          <li class="project-li" data-cat={p.category} data-client={p.client} data-format={p.format ?? ''}>
+            <a
+              href={`${base}/projects/${p.slug}/`}
+              class="project-row"
+              data-preview={preview ?? ''}
+            >
+              <span class="num">{num}</span>
+              <span class="title">{p.client}</span>
+              <span class="cat">{p.category}</span>
+              <span class="format">{p.format ?? ''}</span>
+            </a>
+          </li>
+        );
+      })}
+    </ol>
+  </section>
+
+  <div class="preview-pane" id="preview"><img id="preview-img" alt="" /></div>
+
+  <script>
+    const pane = document.getElementById('preview');
+    const img = document.getElementById('preview-img');
+    document.querySelectorAll('.project-row').forEach(row => {
+      const src = row.getAttribute('data-preview');
+      if (!src) return;
+      row.addEventListener('pointerenter', () => { img.src = src; pane.classList.add('on'); });
+      row.addEventListener('pointerleave', () => pane.classList.remove('on'));
+    });
+
+    const list = document.getElementById('project-list');
+
+    // Sort
+    let sortState = { key: null, asc: true };
+    document.querySelectorAll('.list-head .sortable').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.key;
+        sortState.asc = sortState.key === key ? !sortState.asc : true;
+        sortState.key = key;
+        document.querySelectorAll('.list-head .sortable').forEach(s => s.classList.remove('asc','desc'));
+        th.classList.add(sortState.asc ? 'asc' : 'desc');
+
+        const items = Array.from(list.querySelectorAll('.project-li'));
+        items.sort((a, b) => {
+          const av = (a.dataset[key] || '').toLowerCase();
+          const bv = (b.dataset[key] || '').toLowerCase();
+          return (av < bv ? -1 : av > bv ? 1 : 0) * (sortState.asc ? 1 : -1);
+        });
+        items.forEach(it => list.appendChild(it));
+        // Renumber
+        let n = 1;
+        list.querySelectorAll('.project-li').forEach(li => {
+          if (li.style.display === 'none') return;
+          const numEl = li.querySelector('.num');
+          if (numEl) numEl.textContent = String(n++).padStart(2, '0');
+        });
+      });
+    });
+  </script>
+</Base>

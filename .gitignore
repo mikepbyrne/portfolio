@@ -1,0 +1,26 @@
+# Source assets — too large for repo, used only for local optimization
+Selects/
+video/
+stills/
+ai/
+Archive/
+_meta/
+portfolio-staging/
+
+# Node
+node_modules/
+site/.astro/
+site/dist/
+site/.opt-cache.json
+worker/.wrangler/
+
+# OS
+.DS_Store
+Thumbs.db
+Icon?
+**/Icon?
+
+# Logs / tmp
+*.log
+.env
+.env.local

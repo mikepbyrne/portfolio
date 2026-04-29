@@ -1,0 +1,18 @@
+{
+  "name": "mike-byrne-portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "optimize": "node scripts/optimize.mjs",
+    "build": "npm run optimize && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
+}

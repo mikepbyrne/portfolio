@@ -1,0 +1,3078 @@
+{
+  "atlantiscasino": {
+    "projectName": "AtlantisCasino",
+    "assets": [
+      {
+        "name": "atlantis-casino-2-555-instagram-atlantis.jpg",
+        "slug": "atlantis-casino-2-555-instagram-atlantis",
+        "hash": "822e86ad2f8f9542f574455a517863ad",
+        "type": "image",
+        "width": 853,
+        "height": 1280,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-2-555-instagram-atlantis-400.webp",
+          "atlantiscasino/atlantis-casino-2-555-instagram-atlantis-400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop.jpg",
+        "slug": "atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop",
+        "hash": "f55b692fb3fcae1a22c0e424db825f53",
+        "type": "image",
+        "width": 3000,
+        "height": 3000,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-400.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-1200.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-1200.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-2400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-brinelounge-3679-3-crop-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2.jpg",
+        "slug": "atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2",
+        "hash": "c326274c448bff9cf68f4dce56dcc74f",
+        "type": "image",
+        "width": 2919,
+        "height": 2271,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-400.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-1200.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-1200.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-2400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-elevators-cam-a-19660-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1.jpg",
+        "slug": "atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1",
+        "hash": "6aed98c2ac9d1df8990140fa1f686654",
+        "type": "image",
+        "width": 2949,
+        "height": 1940,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-400.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-1200.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-1200.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-2400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-skyterrace-1112-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5.jpg",
+        "slug": "atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5",
+        "hash": "a0f1a21a4796892021469d42fd8c577d",
+        "type": "image",
+        "width": 3000,
+        "height": 2220,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-400.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-1200.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-1200.jpg",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-2400.webp",
+          "atlantiscasino/atlantis-casino-2021-01-25-dta-atlantis-steakhouse-cam-a-18287-5-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-atlantis-insta.jpg",
+        "slug": "atlantis-casino-atlantis-insta",
+        "hash": "116baf9a173bd224a947ccef88344121",
+        "type": "image",
+        "width": 2922,
+        "height": 1917,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-atlantis-insta-400.webp",
+          "atlantiscasino/atlantis-casino-atlantis-insta-400.jpg",
+          "atlantiscasino/atlantis-casino-atlantis-insta-1200.webp",
+          "atlantiscasino/atlantis-casino-atlantis-insta-1200.jpg",
+          "atlantiscasino/atlantis-casino-atlantis-insta-2400.webp",
+          "atlantiscasino/atlantis-casino-atlantis-insta-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-atlantis-instagram.jpg",
+        "slug": "atlantis-casino-atlantis-instagram",
+        "hash": "305da31a42a8e4c1629ae4d93a363fed",
+        "type": "image",
+        "width": 2964,
+        "height": 1756,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-atlantis-instagram-400.webp",
+          "atlantiscasino/atlantis-casino-atlantis-instagram-400.jpg",
+          "atlantiscasino/atlantis-casino-atlantis-instagram-1200.webp",
+          "atlantiscasino/atlantis-casino-atlantis-instagram-1200.jpg",
+          "atlantiscasino/atlantis-casino-atlantis-instagram-2400.webp",
+          "atlantiscasino/atlantis-casino-atlantis-instagram-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-atlresrnolfh.00-01-25-11.still002.jpg",
+        "slug": "atlantis-casino-atlresrnolfh-00-01-25-11-still002",
+        "hash": "8f65956ddce4ab880f5c9137eb354c88",
+        "type": "image",
+        "width": 3098,
+        "height": 1743,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-400.webp",
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-400.jpg",
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-1200.webp",
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-1200.jpg",
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-2400.webp",
+          "atlantiscasino/atlantis-casino-atlresrnolfh-00-01-25-11-still002-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-atlressac60h.00-00-27-01.still001.jpg",
+        "slug": "atlantis-casino-atlressac60h-00-00-27-01-still001",
+        "hash": "4f16580c63dac5fd7ac474d5fae9f16d",
+        "type": "image",
+        "width": 2782,
+        "height": 1688,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-400.webp",
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-400.jpg",
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-1200.webp",
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-1200.jpg",
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-2400.webp",
+          "atlantiscasino/atlantis-casino-atlressac60h-00-00-27-01-still001-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-dta-atlantis-eriks-selectsv6.jpg",
+        "slug": "atlantis-casino-dta-atlantis-eriks-selectsv6",
+        "hash": "0f76a2e8f4efd516386c881ecabdf32d",
+        "type": "image",
+        "width": 4500,
+        "height": 2655,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-400.webp",
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-400.jpg",
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-1200.webp",
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-1200.jpg",
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-2400.webp",
+          "atlantiscasino/atlantis-casino-dta-atlantis-eriks-selectsv6-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-instagram-atlantis.jpg",
+        "slug": "atlantis-casino-instagram-atlantis",
+        "hash": "da5f270c2155e56bbd75a2ea420cb789",
+        "type": "image",
+        "width": 2762,
+        "height": 1764,
+        "outputs": [
+          "atlantiscasino/atlantis-casino-instagram-atlantis-400.webp",
+          "atlantiscasino/atlantis-casino-instagram-atlantis-400.jpg",
+          "atlantiscasino/atlantis-casino-instagram-atlantis-1200.webp",
+          "atlantiscasino/atlantis-casino-instagram-atlantis-1200.jpg",
+          "atlantiscasino/atlantis-casino-instagram-atlantis-2400.webp",
+          "atlantiscasino/atlantis-casino-instagram-atlantis-2400.jpg"
+        ]
+      },
+      {
+        "name": "atlantis-casino-resort-60s.mov",
+        "slug": "atlantis-casino-resort-60s",
+        "hash": "defdad7607e932b4fe1418e5778dea8a",
+        "type": "video-poster",
+        "outputs": [
+          "atlantiscasino/atlantis-casino-resort-60s-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "bfgoodrich": {
+    "projectName": "BFGoodrich",
+    "assets": [
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466",
+        "hash": "ad5b9d06e755b4f28388191dbfd39658",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba70466-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118",
+        "hash": "03a68e944be55476b8f7b3121e9f92dd",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73118-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730",
+        "hash": "133dc2741e1eeef8618403691930d882",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73730-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879",
+        "hash": "ab901b7434746c81e7870990854eeb6c",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba73879-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014",
+        "hash": "0fbedac8a07e5663748bfeea7de17854",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba74014-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777",
+        "hash": "e427273998e76e62853005697b21ba1d",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba79777-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920",
+        "hash": "2df816caa5640fd022f2cac143131a3c",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba90920-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007",
+        "hash": "c3c6b6f014b87cdb3fc714f68a5ac469",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91007-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124",
+        "hash": "6ff0505b8e3a7b461e03cd9e637d442f",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91124-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452",
+        "hash": "6e514be1fd6ad2a3dcf06563f1640862",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91452-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497",
+        "hash": "8f7cb361ab72f4f97cbd13b406007c9e",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91497-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724",
+        "hash": "cede023a7f3cb4558376aafd3a49891b",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91724-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822",
+        "hash": "9f33d55f44ec166088d2df170b79ffda",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba91822-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238",
+        "hash": "a4834a1ecf0bc6b8af3df48c6497aa96",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba94238-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199",
+        "hash": "a810ae34d1ecdd553bb3523d5602a4a3",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba97199-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340",
+        "hash": "e42087ba0c9dcc2b63e9cb931f824eac",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98340-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743",
+        "hash": "cf280ee16102c80962c37a05b913093e",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98743-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803",
+        "hash": "ccbe9304ca0f1a486b5fe2875fd7a4cf",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba98803-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037",
+        "hash": "3d344f10084b1d3fa9fa84b3141bb273",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99037-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170",
+        "hash": "ed91b8f7f06161b9dc2fb855f597da78",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99170-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282",
+        "hash": "904bd5eeb0261e57c784803656459ae0",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ba99282-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862",
+        "hash": "f67f5add7b1d8e63deef69da71815fef",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91862-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933",
+        "hash": "8ae290014aab6422e87879b45f487dcb",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta91933-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391",
+        "hash": "664177ddb8d014bd5bb7498fd107f525",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92391-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497.jpg",
+        "slug": "bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497",
+        "hash": "cf1b8292222110b0437aa6579e56e6fd",
+        "type": "image",
+        "width": 2500,
+        "height": 1406,
+        "outputs": [
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-400.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-1200.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-1200.jpg",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-2400.webp",
+          "bfgoodrich/bax-towner-bfgoodrich-bax-towner-pf-bfgoodrich-ta92497-2400.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-60s.mp4",
+        "slug": "trail-terrain-60s",
+        "hash": "0348cc9a320bb3c53e40cb131d662309",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-60s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-active-30s.mp4",
+        "slug": "trail-terrain-active-30s",
+        "hash": "9793f8aefc33f9573a2e1f9f1bcadf14",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-active-30s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-broad-30s.mp4",
+        "slug": "trail-terrain-broad-30s",
+        "hash": "9ab9e88f6c6dc83fe1fa615d4e87f2ef",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-broad-30s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-built-to-last-15s.mp4",
+        "slug": "trail-terrain-built-to-last-15s",
+        "hash": "73a1e1fea28d622d410ae31de3aa038a",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-built-to-last-15s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-core-30s.mp4",
+        "slug": "trail-terrain-core-30s",
+        "hash": "f59b445cc3cd094226ac6e83503daa5d",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-core-30s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-engineered-to-explore-15s.mp4",
+        "slug": "trail-terrain-engineered-to-explore-15s",
+        "hash": "6cfff211079a48b77390236efe458f87",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-engineered-to-explore-15s-poster.jpg"
+        ]
+      },
+      {
+        "name": "trail-terrain-equipped-for-every-season-15s.mp4",
+        "slug": "trail-terrain-equipped-for-every-season-15s",
+        "hash": "d30f9476ee476833900c83274cef670c",
+        "type": "video-poster",
+        "outputs": [
+          "bfgoodrich/trail-terrain-equipped-for-every-season-15s-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "casper": {
+    "projectName": "Casper",
+    "assets": [
+      {
+        "name": "core-15s.mp4",
+        "slug": "core-15s",
+        "hash": "fe848dc3f22752107ecb57e5a471885f",
+        "type": "video-poster",
+        "outputs": [
+          "casper/core-15s-poster.jpg"
+        ]
+      },
+      {
+        "name": "core-30s.mp4",
+        "slug": "core-30s",
+        "hash": "80496520988f59371d4acf85c3462cb1",
+        "type": "video-poster",
+        "outputs": [
+          "casper/core-30s-poster.jpg"
+        ]
+      },
+      {
+        "name": "steelworks-casper-live-dream-machine-cooling-us-30.mp4",
+        "slug": "steelworks-casper-live-dream-machine-cooling-us-30",
+        "hash": "a0510fd8b56939fe9210400d90e8c091",
+        "type": "video-poster",
+        "outputs": [
+          "casper/steelworks-casper-live-dream-machine-cooling-us-30-poster.jpg"
+        ]
+      },
+      {
+        "name": "steelworks-dream-machine-core-60.mp4",
+        "slug": "steelworks-dream-machine-core-60",
+        "hash": "6a962f87211fe9306c31ea3a33f1eefe",
+        "type": "video-poster",
+        "outputs": [
+          "casper/steelworks-dream-machine-core-60-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "choices": {
+    "projectName": "Choices",
+    "assets": [
+      {
+        "name": "camping.mp4",
+        "slug": "camping",
+        "hash": "116ef44bb0fe37f8608857fa3b0bedc7",
+        "type": "video-poster",
+        "outputs": [
+          "choices/camping-poster.jpg"
+        ]
+      },
+      {
+        "name": "gill.mp4",
+        "slug": "gill",
+        "hash": "0adb5f4203b2126089288a8430dce090",
+        "type": "video-poster",
+        "outputs": [
+          "choices/gill-poster.jpg"
+        ]
+      },
+      {
+        "name": "guitar.mp4",
+        "slug": "guitar",
+        "hash": "083d56cffe637d5cd660bd435916ff19",
+        "type": "video-poster",
+        "outputs": [
+          "choices/guitar-poster.jpg"
+        ]
+      },
+      {
+        "name": "soccer.mp4",
+        "slug": "soccer",
+        "hash": "79d7323b07a6812e45b076e0970b59a4",
+        "type": "video-poster",
+        "outputs": [
+          "choices/soccer-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "cruise": {
+    "projectName": "Cruise",
+    "assets": [
+      {
+        "name": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown.jpg",
+        "slug": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown",
+        "hash": "865533b42db10756efde46ad78cb8d23",
+        "type": "image",
+        "width": 7837,
+        "height": 5225,
+        "outputs": [
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-400.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-1200.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-1200.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-2400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-chinatown-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown.jpg",
+        "slug": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown",
+        "hash": "c2275563e92d56dc6b511f080f9e5129",
+        "type": "image",
+        "width": 7952,
+        "height": 5301,
+        "outputs": [
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-400.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-1200.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-1200.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-2400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-downtown-2400.jpg"
+        ]
+      },
+      {
+        "name": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd.jpg",
+        "slug": "bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd",
+        "hash": "6dad6c8294d96909539657491374b5f6",
+        "type": "image",
+        "width": 7952,
+        "height": 5304,
+        "outputs": [
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-400.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-1200.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-1200.jpg",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-2400.webp",
+          "cruise/bax-towner-cruise-lincoln-baxtowner-cruise-cama-lincoln-blvd-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "current": {
+    "projectName": "Current",
+    "assets": [
+      {
+        "name": "kelsey-mcclellan-current-home1.webp",
+        "slug": "kelsey-mcclellan-current-home1",
+        "hash": "07c3523305b8ce1a06cafea78609892c",
+        "type": "image",
+        "width": 1680,
+        "height": 1598,
+        "outputs": [
+          "current/kelsey-mcclellan-current-home1-400.webp",
+          "current/kelsey-mcclellan-current-home1-400.jpg",
+          "current/kelsey-mcclellan-current-home1-1200.webp",
+          "current/kelsey-mcclellan-current-home1-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-home2.webp",
+        "slug": "kelsey-mcclellan-current-home2",
+        "hash": "89e21326e2bc2035ddf0ea2f7c534db8",
+        "type": "image",
+        "width": 1680,
+        "height": 1598,
+        "outputs": [
+          "current/kelsey-mcclellan-current-home2-400.webp",
+          "current/kelsey-mcclellan-current-home2-400.jpg",
+          "current/kelsey-mcclellan-current-home2-1200.webp",
+          "current/kelsey-mcclellan-current-home2-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-home3.webp",
+        "slug": "kelsey-mcclellan-current-home3",
+        "hash": "71f5f99ed89d3ad560a3c9b04e6a625a",
+        "type": "image",
+        "width": 1680,
+        "height": 1598,
+        "outputs": [
+          "current/kelsey-mcclellan-current-home3-400.webp",
+          "current/kelsey-mcclellan-current-home3-400.jpg",
+          "current/kelsey-mcclellan-current-home3-1200.webp",
+          "current/kelsey-mcclellan-current-home3-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-home4.webp",
+        "slug": "kelsey-mcclellan-current-home4",
+        "hash": "d46b1f9425ba3869bfb95d8e59c42afd",
+        "type": "image",
+        "width": 1680,
+        "height": 1598,
+        "outputs": [
+          "current/kelsey-mcclellan-current-home4-400.webp",
+          "current/kelsey-mcclellan-current-home4-400.jpg",
+          "current/kelsey-mcclellan-current-home4-1200.webp",
+          "current/kelsey-mcclellan-current-home4-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-home5.webp",
+        "slug": "kelsey-mcclellan-current-home5",
+        "hash": "70c47c7ae39af645141b6ff77e2d3abb",
+        "type": "image",
+        "width": 1680,
+        "height": 1598,
+        "outputs": [
+          "current/kelsey-mcclellan-current-home5-400.webp",
+          "current/kelsey-mcclellan-current-home5-400.jpg",
+          "current/kelsey-mcclellan-current-home5-1200.webp",
+          "current/kelsey-mcclellan-current-home5-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0025.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0025",
+        "hash": "2ae4887509a6ccd46749f8e882d9d443",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0025.png",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0025-2",
+        "hash": "7eef509f99def817d82936d0ff4933d6",
+        "type": "image",
+        "width": 13309,
+        "height": 10380,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0025-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0046-dark.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0046-dark",
+        "hash": "ce1b53958fd75079944298cf48996cca",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0046-dark-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0058.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0058",
+        "hash": "f2da5f75cb467deda88d85757a2d8c4e",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0058-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0067.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0067",
+        "hash": "27b85ee6ac8680132d95cd421b25d772",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1.png",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1",
+        "hash": "6ba3d59ce5dd34791cf28e3b81cd0284",
+        "type": "image",
+        "width": 25010,
+        "height": 24630,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2.png",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2",
+        "hash": "e870698cbc775f230987321731efce4d",
+        "type": "image",
+        "width": 32768,
+        "height": 21867,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0067copy-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-0088.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-0088",
+        "hash": "56f562a3acf0e32f6bfba975f5ced30e",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-0088-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237",
+        "hash": "63299565f18c60ffffda9a03d3f2d563",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1237-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247",
+        "hash": "ea46f728243404a60644beb83aca30c3",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1247-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255",
+        "hash": "dfd2b83e3e897ad057fcfbf882da76eb",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-lookingatapp-1255-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698",
+        "hash": "d17ab00c4830fe0e3e1c8f65c0e8d13d",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0698-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736",
+        "hash": "a62aa72a75e55ab624fd41d534457871",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0736-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742",
+        "hash": "6453d4e4620dbe0be321b3ca3cda9ed1",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0742-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918",
+        "hash": "6f50a0dc4f033dbeb671fc1194b57f07",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0918-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935",
+        "hash": "c103bdf751cacf3931c73384a6d40139",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-portraitsholdingthecard-0935-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592",
+        "hash": "afd1d7518b549cfcb0cd2b770d7fec96",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-atm-0592-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424",
+        "hash": "7f7cd9eaeb167216bcbfa2ae4e0140d4",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0424-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445",
+        "hash": "fc4f35d4ccbc5ca74feea40907b31010",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-grabbingcardoutofwallet-0445-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140",
+        "hash": "c7f563dacd649bc0b00334e604c3fd1e",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0140-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202",
+        "hash": "e0a9607b9de56e38da118dd2ccddf4eb",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0202-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226",
+        "hash": "38f68bfeaac194d6a07a75d76e400ef5",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingcardecu-0226-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490",
+        "hash": "8712a0edb0d3fc6f527a1e2f83a95b45",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2.png",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2",
+        "hash": "62805615479356e79b78bc2c8d999bd5",
+        "type": "image",
+        "width": 17581,
+        "height": 15488,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0490copy-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496",
+        "hash": "f0ac9773441bf4594eb5e4868ea04cf3",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0496-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512",
+        "hash": "88fbb933241dda667fea6c3a1ef1a29c",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-holdingphonescrnatcamera-0512-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280",
+        "hash": "6eebd89444eae91009d967480cf84aa1",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1280-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313",
+        "hash": "576835373d9c72dd0f05b71106c41867",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1313-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354",
+        "hash": "cbdd57338157be0951af266546ee6004",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1354-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge",
+        "hash": "28d56982396a79c176bc2b3d4da41d8f",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1360-edge-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368",
+        "hash": "e72a9fa892697aee05f2259701a543df",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1368-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371",
+        "hash": "cac7126e1c6005ebfe4b171ca5d606bc",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1371-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378",
+        "hash": "e7f5a8289c6f9b9174cf301df3a23e16",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1378-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391",
+        "hash": "e5de92cbf41f717ece7d72a9166a649a",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1391-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405",
+        "hash": "09a72af51ed6eafe54938c7a06d65b8c",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1405-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408",
+        "hash": "234023de2be7a3a5c47f7f7b82f73e73",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1408-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426",
+        "hash": "d90428c0b598184d89b8e48b2e3d719f",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1426-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453",
+        "hash": "a0a2f2dc90ad96122c3f733eb3ffed35",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1453-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482",
+        "hash": "14ad38b6ca8474c8937cc19f158f2bc9",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1482-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492",
+        "hash": "dddcbbbb9cfbf19feda0f79208ec14e3",
+        "type": "image",
+        "width": 2250,
+        "height": 3000,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1492-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500",
+        "hash": "77a47ee97b615b4aa921eb452089dd8c",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-portraitsholdingthecardfull-1500-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257",
+        "hash": "9ddee1ea8efde96c47a9aa0fb8efa6ff",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0257-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315",
+        "hash": "0f86043c31255054098316bfcd10a7b6",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0315-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351.jpg",
+        "slug": "kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351",
+        "hash": "093da87f85372cd82ea9be2bf961e6a7",
+        "type": "image",
+        "width": 3000,
+        "height": 2250,
+        "outputs": [
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-400.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-1200.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-1200.jpg",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-2400.webp",
+          "current/kelsey-mcclellan-current-kelseymcclellan-current-talent-tappingtopay-0351-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-screen-shot-2022-02-01-at-6.27-2.png",
+        "slug": "kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2",
+        "hash": "95e1bdf421280c51c014b0ee1b8e3b57",
+        "type": "image",
+        "width": 12836,
+        "height": 21012,
+        "outputs": [
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-400.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-1200.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-1200.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-2400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-screen-shot-2022-02-01-at-6.27-3.png",
+        "slug": "kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3",
+        "hash": "be6348f473fd4dd5291f47d6263fc093",
+        "type": "image",
+        "width": 20296,
+        "height": 15103,
+        "outputs": [
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-400.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-1200.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-1200.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-2400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-01-at-6-27-3-2400.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-current-screen-shot-2022-02-02-at-2.37-1.png",
+        "slug": "kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1",
+        "hash": "2ee74059218979a6e94ea8ca27d86950",
+        "type": "image",
+        "width": 19967,
+        "height": 10934,
+        "outputs": [
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-400.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-1200.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-1200.jpg",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-2400.webp",
+          "current/kelsey-mcclellan-current-screen-shot-2022-02-02-at-2-37-1-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "disney-github": {
+    "projectName": "Disney + GitHub",
+    "assets": [
+      {
+        "name": "disney-mc-disney-github-paul-st-john-13515-5-2.jpg",
+        "slug": "disney-mc-disney-github-paul-st-john-13515-5-2",
+        "hash": "dac1497d67e98253221c11a4cc9d981b",
+        "type": "image",
+        "width": 3000,
+        "height": 1840,
+        "outputs": [
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-400.webp",
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-400.jpg",
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-1200.webp",
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-1200.jpg",
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-2400.webp",
+          "disney-github/disney-mc-disney-github-paul-st-john-13515-5-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "disney-mc-disney-github-shawn-jarolimek-13737-6.jpg",
+        "slug": "disney-mc-disney-github-shawn-jarolimek-13737-6",
+        "hash": "7520e4aad63ede696709c5c07f68e717",
+        "type": "image",
+        "width": 3000,
+        "height": 1840,
+        "outputs": [
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-400.webp",
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-400.jpg",
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-1200.webp",
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-1200.jpg",
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-2400.webp",
+          "disney-github/disney-mc-disney-github-shawn-jarolimek-13737-6-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "ford": {
+    "projectName": "Ford",
+    "assets": [
+      {
+        "name": "escape-get-it-done.mp4",
+        "slug": "escape-get-it-done",
+        "hash": "c843d2d08d75e98f1f7f2b27981eb66c",
+        "type": "video-poster",
+        "outputs": [
+          "ford/escape-get-it-done-poster.jpg"
+        ]
+      },
+      {
+        "name": "escape-get-ready.mp4",
+        "slug": "escape-get-ready",
+        "hash": "ae6ffa3cf2a14d4ddaeb9bcf4af6e001",
+        "type": "video-poster",
+        "outputs": [
+          "ford/escape-get-ready-poster.jpg"
+        ]
+      },
+      {
+        "name": "escape-get-recharged.mp4",
+        "slug": "escape-get-recharged",
+        "hash": "ebcfbfc56ea5f103f5272a852f87c617",
+        "type": "video-poster",
+        "outputs": [
+          "ford/escape-get-recharged-poster.jpg"
+        ]
+      },
+      {
+        "name": "escape-get-your-angles.mp4",
+        "slug": "escape-get-your-angles",
+        "hash": "90bdc40ad218bb04c607db8b509071ec",
+        "type": "video-poster",
+        "outputs": [
+          "ford/escape-get-your-angles-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "forxiga": {
+    "projectName": "Forxiga",
+    "assets": [
+      {
+        "name": "ttc-forxiga-backplates-hcp-9o8a3684-7.jpg",
+        "slug": "ttc-forxiga-backplates-hcp-9o8a3684-7",
+        "hash": "4e5e589fe34a9bd810d0ad84a259a461",
+        "type": "image",
+        "width": 4500,
+        "height": 3106,
+        "outputs": [
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-400.webp",
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-400.jpg",
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-1200.webp",
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-1200.jpg",
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-2400.webp",
+          "forxiga/ttc-forxiga-backplates-hcp-9o8a3684-7-2400.jpg"
+        ]
+      },
+      {
+        "name": "ttc-forxiga-studio-playinggames-aa-female-0329-3.jpg",
+        "slug": "ttc-forxiga-studio-playinggames-aa-female-0329-3",
+        "hash": "bc6b6cfe48c36a5ea60d699f72144b27",
+        "type": "image",
+        "width": 3000,
+        "height": 2188,
+        "outputs": [
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-400.webp",
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-400.jpg",
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-1200.webp",
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-1200.jpg",
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-2400.webp",
+          "forxiga/ttc-forxiga-studio-playinggames-aa-female-0329-3-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "gavreto": {
+    "projectName": "Gavreto",
+    "assets": [
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-briones-22962.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-briones-22962",
+        "hash": "57396b5d51ce0c51aaaa9080afe43225",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-22962-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1",
+        "hash": "c3e3eae20aca90ae11ef75181b2a007a",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-23813-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-briones-24456.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-briones-24456",
+        "hash": "81f4d068c69b4a5b4c387b3934050261",
+        "type": "image",
+        "width": 4500,
+        "height": 3373,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-briones-24456-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-lake-2933.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-lake-2933",
+        "hash": "14468ae707595964abcbb13a6cc123c3",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-2933-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1",
+        "hash": "e31fba482b2eae82bcb8baa5fa61c946",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-3695-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-lake-5421.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-lake-5421",
+        "hash": "4c94c7eaf0feffe50d915250cd66d4f8",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5421-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1",
+        "hash": "c02a0b5bc0691035f2280effebc83ae6",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-lake-5551-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "calcium-gavreto-calcium-gavreto-cam-a-pier-1438.jpg",
+        "slug": "calcium-gavreto-calcium-gavreto-cam-a-pier-1438",
+        "hash": "52923601dc95e5134ea09364ee57b9c3",
+        "type": "image",
+        "width": 4500,
+        "height": 3001,
+        "outputs": [
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-400.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-1200.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-1200.jpg",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-2400.webp",
+          "gavreto/calcium-gavreto-calcium-gavreto-cam-a-pier-1438-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "gilead": {
+    "projectName": "Gilead",
+    "assets": [
+      {
+        "name": "galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler.webp",
+        "slug": "galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler",
+        "hash": "4a18c99c5e9aed7c8fbd3910af682b63",
+        "type": "image",
+        "width": 2000,
+        "height": 1536,
+        "outputs": [
+          "gilead/galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler-400.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler-400.jpg",
+          "gilead/galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler-1200.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadauditorium-andersonbbd-6-trayler-1200.jpg"
+        ]
+      },
+      {
+        "name": "galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler.webp",
+        "slug": "galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler",
+        "hash": "f7ed62a59eb85320caf934c917f92910",
+        "type": "image",
+        "width": 2000,
+        "height": 1361,
+        "outputs": [
+          "gilead/galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler-400.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler-400.jpg",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler-1200.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentexterior-andersonbbd-12-trayler-1200.jpg"
+        ]
+      },
+      {
+        "name": "galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler.webp",
+        "slug": "galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler",
+        "hash": "f5902ea8663ea1eab3ed5d96c4d1343b",
+        "type": "image",
+        "width": 2000,
+        "height": 1442,
+        "outputs": [
+          "gilead/galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler-400.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler-400.jpg",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler-1200.webp",
+          "gilead/galapagos-erikalmas-galapagos-gileadtentinterior-andersonbbd-3-trayler-1200.jpg"
+        ]
+      }
+    ]
+  },
+  "kttape": {
+    "projectName": "KTTape",
+    "assets": [
+      {
+        "name": "kt-tape.mp4",
+        "slug": "kt-tape",
+        "hash": "f9b52198124fce186be8d46bc0f2309e",
+        "type": "video-poster",
+        "outputs": [
+          "kttape/kt-tape-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "kerrygold": {
+    "projectName": "KerryGold",
+    "assets": [
+      {
+        "name": "7978a-muffins-realsimple-r3.jpg",
+        "slug": "7978a-muffins-realsimple-r3",
+        "hash": "0f53221fb63dd36ef6560cf2f505143e",
+        "type": "image",
+        "width": 639,
+        "height": 783,
+        "outputs": [
+          "kerrygold/7978a-muffins-realsimple-r3-400.webp",
+          "kerrygold/7978a-muffins-realsimple-r3-400.jpg"
+        ]
+      },
+      {
+        "name": "7978a-risotto-realsimple-r2.jpg",
+        "slug": "7978a-risotto-realsimple-r2",
+        "hash": "55089c5947d993c05d205102477ac3de",
+        "type": "image",
+        "width": 639,
+        "height": 783,
+        "outputs": [
+          "kerrygold/7978a-risotto-realsimple-r2-400.webp",
+          "kerrygold/7978a-risotto-realsimple-r2-400.jpg"
+        ]
+      },
+      {
+        "name": "7978e-eggsandwich-bhg-r1.jpg",
+        "slug": "7978e-eggsandwich-bhg-r1",
+        "hash": "6e6492296c6830688ade81f2469d167a",
+        "type": "image",
+        "width": 567,
+        "height": 756,
+        "outputs": [
+          "kerrygold/7978e-eggsandwich-bhg-r1-400.webp",
+          "kerrygold/7978e-eggsandwich-bhg-r1-400.jpg"
+        ]
+      },
+      {
+        "name": "7978g-frittata-bakefromscratch-r5.jpg",
+        "slug": "7978g-frittata-bakefromscratch-r5",
+        "hash": "19ed631e3cda97a0c749a76e40115af1",
+        "type": "image",
+        "width": 648,
+        "height": 783,
+        "outputs": [
+          "kerrygold/7978g-frittata-bakefromscratch-r5-400.webp",
+          "kerrygold/7978g-frittata-bakefromscratch-r5-400.jpg"
+        ]
+      },
+      {
+        "name": "7978j-frittata-spread-cherrybombe-r4.jpg",
+        "slug": "7978j-frittata-spread-cherrybombe-r4",
+        "hash": "c5f07366dc06099810178c743547177b",
+        "type": "image",
+        "width": 1170,
+        "height": 783,
+        "outputs": [
+          "kerrygold/7978j-frittata-spread-cherrybombe-r4-400.webp",
+          "kerrygold/7978j-frittata-spread-cherrybombe-r4-400.jpg"
+        ]
+      }
+    ]
+  },
+  "lvlwatch": {
+    "projectName": "LVLWatch",
+    "assets": [
+      {
+        "name": "lvl-watch-7e9429e7fc3fb67f792572408cb65dc7.png",
+        "slug": "lvl-watch-7e9429e7fc3fb67f792572408cb65dc7",
+        "hash": "80124395ea232e290b0238f844ee7950",
+        "type": "image",
+        "width": 680,
+        "height": 826,
+        "outputs": [
+          "lvlwatch/lvl-watch-7e9429e7fc3fb67f792572408cb65dc7-400.webp",
+          "lvlwatch/lvl-watch-7e9429e7fc3fb67f792572408cb65dc7-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-985ec5fc3e8b993ec18eed25a64ed44d.png",
+        "slug": "lvl-watch-985ec5fc3e8b993ec18eed25a64ed44d",
+        "hash": "5a227438b7467b27ae7a49bf644427d8",
+        "type": "image",
+        "width": 680,
+        "height": 660,
+        "outputs": [
+          "lvlwatch/lvl-watch-985ec5fc3e8b993ec18eed25a64ed44d-400.webp",
+          "lvlwatch/lvl-watch-985ec5fc3e8b993ec18eed25a64ed44d-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-c490cbeb82e49d987f446be3f4fba44c.png",
+        "slug": "lvl-watch-c490cbeb82e49d987f446be3f4fba44c",
+        "hash": "55ddd1a985471ec45f850e4f2c1258f4",
+        "type": "image",
+        "width": 680,
+        "height": 398,
+        "outputs": [
+          "lvlwatch/lvl-watch-c490cbeb82e49d987f446be3f4fba44c-400.webp",
+          "lvlwatch/lvl-watch-c490cbeb82e49d987f446be3f4fba44c-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-e3c14f2a3ac7b350c96f4d39f922375a.png",
+        "slug": "lvl-watch-e3c14f2a3ac7b350c96f4d39f922375a",
+        "hash": "7e01617b5c13b02babffa53cada4790e",
+        "type": "image",
+        "width": 680,
+        "height": 1122,
+        "outputs": [
+          "lvlwatch/lvl-watch-e3c14f2a3ac7b350c96f4d39f922375a-400.webp",
+          "lvlwatch/lvl-watch-e3c14f2a3ac7b350c96f4d39f922375a-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-f41228275e463c4b370898272a080c48.png",
+        "slug": "lvl-watch-f41228275e463c4b370898272a080c48",
+        "hash": "2c2878ab7bb9bb67e3cf85d908e486ca",
+        "type": "image",
+        "width": 680,
+        "height": 399,
+        "outputs": [
+          "lvlwatch/lvl-watch-f41228275e463c4b370898272a080c48-400.webp",
+          "lvlwatch/lvl-watch-f41228275e463c4b370898272a080c48-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-fe46cd7afbeb4a0726a2799c5a014d0f.png",
+        "slug": "lvl-watch-fe46cd7afbeb4a0726a2799c5a014d0f",
+        "hash": "494da9f65dd1448cf39b887a6d9c640c",
+        "type": "image",
+        "width": 680,
+        "height": 1289,
+        "outputs": [
+          "lvlwatch/lvl-watch-fe46cd7afbeb4a0726a2799c5a014d0f-400.webp",
+          "lvlwatch/lvl-watch-fe46cd7afbeb4a0726a2799c5a014d0f-400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-frog-lvl-product-wave-5683-hero-band-front.jpg",
+        "slug": "lvl-watch-frog-lvl-product-wave-5683-hero-band-front",
+        "hash": "b738f8114ed5780655aedcc4f0eaf05d",
+        "type": "image",
+        "width": 2000,
+        "height": 1335,
+        "outputs": [
+          "lvlwatch/lvl-watch-frog-lvl-product-wave-5683-hero-band-front-400.webp",
+          "lvlwatch/lvl-watch-frog-lvl-product-wave-5683-hero-band-front-400.jpg",
+          "lvlwatch/lvl-watch-frog-lvl-product-wave-5683-hero-band-front-1200.webp",
+          "lvlwatch/lvl-watch-frog-lvl-product-wave-5683-hero-band-front-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch-frog-lvl-yoga-6500.jpg",
+        "slug": "lvl-watch-frog-lvl-yoga-6500",
+        "hash": "fa68998e761b610609944867871baf40",
+        "type": "image",
+        "width": 2000,
+        "height": 2000,
+        "outputs": [
+          "lvlwatch/lvl-watch-frog-lvl-yoga-6500-400.webp",
+          "lvlwatch/lvl-watch-frog-lvl-yoga-6500-400.jpg",
+          "lvlwatch/lvl-watch-frog-lvl-yoga-6500-1200.webp",
+          "lvlwatch/lvl-watch-frog-lvl-yoga-6500-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160817-frog-lvl-product-pipe-6083-v1.jpg",
+        "slug": "lvl-watch-160817-frog-lvl-product-pipe-6083-v1",
+        "hash": "8a9024b169242a1395659b30c4109d38",
+        "type": "image",
+        "width": 2000,
+        "height": 1333,
+        "outputs": [
+          "lvlwatch/lvl-watch-160817-frog-lvl-product-pipe-6083-v1-400.webp",
+          "lvlwatch/lvl-watch-160817-frog-lvl-product-pipe-6083-v1-400.jpg",
+          "lvlwatch/lvl-watch-160817-frog-lvl-product-pipe-6083-v1-1200.webp",
+          "lvlwatch/lvl-watch-160817-frog-lvl-product-pipe-6083-v1-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-03-7387-v4.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-03-7387-v4",
+        "hash": "628d05eddee61466c804d7bb784fd995",
+        "type": "image",
+        "width": 4275,
+        "height": 4677,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-1200.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-2400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-7387-v4-2400.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-03-crossfit-7322-v1.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-03-crossfit-7322-v1",
+        "hash": "5d2efadabb2d4610af1608c9550fc0f1",
+        "type": "image",
+        "width": 1333,
+        "height": 2000,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-crossfit-7322-v1-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-crossfit-7322-v1-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-crossfit-7322-v1-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-03-crossfit-7322-v1-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-04-cyclist-sunrise-8189-v1.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-04-cyclist-sunrise-8189-v1",
+        "hash": "7b64c5dce86e95cf3e33754d31ab67da",
+        "type": "image",
+        "width": 1200,
+        "height": 724,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunrise-8189-v1-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunrise-8189-v1-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunrise-8189-v1-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunrise-8189-v1-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-04-cyclist-sunset-7779-v2.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7779-v2",
+        "hash": "b8b13925a5f67ff76b6cce48f5b14505",
+        "type": "image",
+        "width": 1200,
+        "height": 800,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7779-v2-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7779-v2-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7779-v2-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7779-v2-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-04-cyclist-sunset-7825-v1.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7825-v1",
+        "hash": "917762bf841ecd6338aac4d0dd9dd1a8",
+        "type": "image",
+        "width": 2000,
+        "height": 1327,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__160819-frog-lvl-day-04-cyclist-sunset-7864-v1.jpg",
+        "slug": "lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7864-v1",
+        "hash": "83837279bb51660a9cd3730d9a8c06f4",
+        "type": "image",
+        "width": 2000,
+        "height": 1333,
+        "outputs": [
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7864-v1-400.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7864-v1-400.jpg",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7864-v1-1200.webp",
+          "lvlwatch/lvl-watch-160819-frog-lvl-day-04-cyclist-sunset-7864-v1-1200.jpg"
+        ]
+      },
+      {
+        "name": "lvl-watch__2__160819-frog-lvl-day-04-cyclist-sunset-7825-v1.jpg",
+        "slug": "lvl-watch-2-160819-frog-lvl-day-04-cyclist-sunset-7825-v1",
+        "hash": "ef688b5755b6be78227d7536e828d067",
+        "type": "image",
+        "width": 1200,
+        "height": 796,
+        "outputs": [
+          "lvlwatch/lvl-watch-2-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-400.webp",
+          "lvlwatch/lvl-watch-2-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-400.jpg",
+          "lvlwatch/lvl-watch-2-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-1200.webp",
+          "lvlwatch/lvl-watch-2-160819-frog-lvl-day-04-cyclist-sunset-7825-v1-1200.jpg"
+        ]
+      }
+    ]
+  },
+  "monarchcasinos": {
+    "projectName": "MonarchCasinos",
+    "assets": [
+      {
+        "name": "monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1.jpg",
+        "slug": "monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1",
+        "hash": "e33a60d46bd96422ac388d7bf1e13aaf",
+        "type": "image",
+        "width": 1281,
+        "height": 1280,
+        "outputs": [
+          "monarchcasinos/monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1-400.webp",
+          "monarchcasinos/monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1-400.jpg",
+          "monarchcasinos/monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1-1200.webp",
+          "monarchcasinos/monarch-casino-555-dta-monarch-aqualounge-a-cam-o8a8564-1-1200.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1.jpg",
+        "slug": "monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1",
+        "hash": "774780d8abaefcf57c364fcbc54f88b9",
+        "type": "image",
+        "width": 4500,
+        "height": 3018,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-aqualounge-a-cam-o8a8564-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6.jpg",
+        "slug": "monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6",
+        "hash": "ca12dd770c85a37da71b6d59041be87e",
+        "type": "image",
+        "width": 2922,
+        "height": 1947,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-7488-4-energyv6-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy.jpg",
+        "slug": "monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy",
+        "hash": "22702adad22145174b69ec5ae89dbe58",
+        "type": "image",
+        "width": 2956,
+        "height": 1945,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-chophouse-a-cam-8347-3-energy-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly.jpg",
+        "slug": "monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly",
+        "hash": "4e3ed649a93a4a6a91ffa895fd030161",
+        "type": "image",
+        "width": 2953,
+        "height": 2095,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-library-firepit-02861-9-large-butterfly-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop.jpg",
+        "slug": "monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop",
+        "hash": "7b24657950a7900d5a1576bfd2b4735e",
+        "type": "image",
+        "width": 2833,
+        "height": 1840,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-pool-a-cam-1447-3-energy-crop-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy.jpg",
+        "slug": "monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy",
+        "hash": "7efe039cd2c678cd7432d0f4f2b096a8",
+        "type": "image",
+        "width": 2502,
+        "height": 1723,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-terracesuite-a-cam-5666-2-energy-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark.jpg",
+        "slug": "monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark",
+        "hash": "3405090cb427dcd5442470eb06a85f8d",
+        "type": "image",
+        "width": 3000,
+        "height": 2001,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch-viplounge-a-cam-2724-with-spark-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-bistromariposa-73120.jpg",
+        "slug": "monarch-casino-dta-monarch2-bistromariposa-73120",
+        "hash": "560e45bbc4cd48ea8bf191977bd4792c",
+        "type": "image",
+        "width": 2560,
+        "height": 1707,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73120-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-bistromariposa-73163.jpg",
+        "slug": "monarch-casino-dta-monarch2-bistromariposa-73163",
+        "hash": "ad0e3fa3e585345d7d8974d9ca68fbbe",
+        "type": "image",
+        "width": 2560,
+        "height": 1707,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73163-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-bistromariposa-73761-1.jpg",
+        "slug": "monarch-casino-dta-monarch2-bistromariposa-73761-1",
+        "hash": "85b5ee3320dfd6a648feb88afb16fa51",
+        "type": "image",
+        "width": 4500,
+        "height": 2762,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-bistromariposa-73761-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-chophouse-75951-3.jpg",
+        "slug": "monarch-casino-dta-monarch2-chophouse-75951-3",
+        "hash": "47fafae37a7451a0a4e029270ce0a9c1",
+        "type": "image",
+        "width": 2199,
+        "height": 1462,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-chophouse-75951-3-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-chophouse-75951-3-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-chophouse-75951-3-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-chophouse-75951-3-1200.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-library-chophouse-0308.jpg",
+        "slug": "monarch-casino-dta-monarch2-library-chophouse-0308",
+        "hash": "18f2ca9794bf68eafe0484b72ba63f79",
+        "type": "image",
+        "width": 2560,
+        "height": 1707,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0308-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-library-chophouse-0321.jpg",
+        "slug": "monarch-casino-dta-monarch2-library-chophouse-0321",
+        "hash": "fd2c5f3b1105ca469992c928d793a595",
+        "type": "image",
+        "width": 2560,
+        "height": 1707,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-chophouse-0321-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-library-spa-0624.jpg",
+        "slug": "monarch-casino-dta-monarch2-library-spa-0624",
+        "hash": "13239572ee0a8e85a035617cfda83489",
+        "type": "image",
+        "width": 2560,
+        "height": 1687,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-1200.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-2400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-spa-0624-2400.jpg"
+        ]
+      },
+      {
+        "name": "monarch-casino-dta-monarch2-library-sportsbook-0761-8.jpg",
+        "slug": "monarch-casino-dta-monarch2-library-sportsbook-0761-8",
+        "hash": "c5d54c0399fd78ece78ffa4566ed33a2",
+        "type": "image",
+        "width": 2176,
+        "height": 1449,
+        "outputs": [
+          "monarchcasinos/monarch-casino-dta-monarch2-library-sportsbook-0761-8-400.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-sportsbook-0761-8-400.jpg",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-sportsbook-0761-8-1200.webp",
+          "monarchcasinos/monarch-casino-dta-monarch2-library-sportsbook-0761-8-1200.jpg"
+        ]
+      },
+      {
+        "name": "monarch-instagram.mp4",
+        "slug": "monarch-instagram",
+        "hash": "17e6934841dfb644528300cdf3a69c64",
+        "type": "video-poster",
+        "outputs": [
+          "monarchcasinos/monarch-instagram-poster.jpg"
+        ]
+      },
+      {
+        "name": "monarch-resort-30s-erik-almas.mov",
+        "slug": "monarch-resort-30s-erik-almas",
+        "hash": "53494b24d3176b2713992a6872eaf7aa",
+        "type": "video-poster",
+        "outputs": [
+          "monarchcasinos/monarch-resort-30s-erik-almas-poster.jpg"
+        ]
+      },
+      {
+        "name": "monarch-resort.mp4",
+        "slug": "monarch-resort",
+        "hash": "7599de933a78ba93f0602a6cc690b9c9",
+        "type": "video-poster",
+        "outputs": [
+          "monarchcasinos/monarch-resort-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "neom": {
+    "projectName": "Neom",
+    "assets": [
+      {
+        "name": "erik-almas-boater.mp4",
+        "slug": "erik-almas-boater",
+        "hash": "11cc49cb96ff919c82fff618b2d0efe8",
+        "type": "video-poster",
+        "outputs": [
+          "neom/erik-almas-boater-poster.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-hikers.mp4",
+        "slug": "erik-almas-hikers",
+        "hash": "b56c286da5257e790d39ffeb8f7fb1c6",
+        "type": "video-poster",
+        "outputs": [
+          "neom/erik-almas-hikers-poster.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-monolith.mp4",
+        "slug": "erik-almas-monolith",
+        "hash": "fa5973b885e8282a4eaa04030448bed8",
+        "type": "video-poster",
+        "outputs": [
+          "neom/erik-almas-monolith-poster.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-neom-boater-15k.rgb-66-wide-15-native-cropped.jpg",
+        "slug": "erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped",
+        "hash": "abf579d141a6c1a905a944dc1eb688f9",
+        "type": "image",
+        "width": 4500,
+        "height": 2365,
+        "outputs": [
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-400.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-400.jpg",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-1200.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-1200.jpg",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-2400.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-cropped-2400.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-neom-boater-15k.rgb-66-wide-15-native.jpg",
+        "slug": "erik-almas-neom-boater-15k-rgb-66-wide-15-native",
+        "hash": "eb79b38d2ac9148e8ba9e3bda891e36b",
+        "type": "image",
+        "width": 2934,
+        "height": 2720,
+        "outputs": [
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-400.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-400.jpg",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-1200.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-1200.jpg",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-2400.webp",
+          "neom/erik-almas-neom-boater-15k-rgb-66-wide-15-native-2400.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-neom-neom-mountain-hikers-dji-22.jpg",
+        "slug": "erik-almas-neom-neom-mountain-hikers-dji-22",
+        "hash": "2475011fd7987d95bbf78ea6d5c8a84f",
+        "type": "image",
+        "width": 3000,
+        "height": 2075,
+        "outputs": [
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-400.webp",
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-400.jpg",
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-1200.webp",
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-1200.jpg",
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-2400.webp",
+          "neom/erik-almas-neom-neom-mountain-hikers-dji-22-2400.jpg"
+        ]
+      },
+      {
+        "name": "erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow.jpg",
+        "slug": "erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow",
+        "hash": "c20a2bc275580f82903c8db05b93dacc",
+        "type": "image",
+        "width": 4500,
+        "height": 2365,
+        "outputs": [
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-400.webp",
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-400.jpg",
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-1200.webp",
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-1200.jpg",
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-2400.webp",
+          "neom/erik-almas-neom-saudi-location-dji-0742-23-vertical-native-more-snow-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "newportbeachtourism": {
+    "projectName": "NewportBeachTourism",
+    "assets": [
+      {
+        "name": "greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5.jpeg",
+        "slug": "greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5",
+        "hash": "d04238741f9e84742db4e734e6e75abc",
+        "type": "image",
+        "width": 1669,
+        "height": 1280,
+        "outputs": [
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5-400.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5-400.jpg",
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5-1200.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-cleopatra-25479-5-1200.jpg"
+        ]
+      },
+      {
+        "name": "greenhaus-newport-tourism-557-greenhaus-newport-lidoleader-6.jpeg",
+        "slug": "greenhaus-newport-tourism-557-greenhaus-newport-lidoleader-6",
+        "hash": "9e1d0a8e0b0fd9f9ccfeb647dde94f98",
+        "type": "image",
+        "width": 1199,
+        "height": 1280,
+        "outputs": [
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-lidoleader-6-400.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-557-greenhaus-newport-lidoleader-6-400.jpg"
+        ]
+      },
+      {
+        "name": "greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop.jpg",
+        "slug": "greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop",
+        "hash": "ff864417f36f3c78932c5a287701e972",
+        "type": "image",
+        "width": 2160,
+        "height": 1553,
+        "outputs": [
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop-400.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop-400.jpg",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop-1200.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-25479-5-crop-1200.jpg"
+        ]
+      },
+      {
+        "name": "greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1.jpg",
+        "slug": "greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1",
+        "hash": "bab97612e90677929470a1a090faf6a6",
+        "type": "image",
+        "width": 2917,
+        "height": 1925,
+        "outputs": [
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-400.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-400.jpg",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-1200.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-1200.jpg",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-2400.webp",
+          "newportbeachtourism/greenhaus-newport-tourism-greenhaus-newport-cleopatra-70a9591-1-2400.jpg"
+        ]
+      },
+      {
+        "name": "newport-beach-lido-rooftop.mp4",
+        "slug": "newport-beach-lido-rooftop",
+        "hash": "d6e7bef52d348accd9dea0fa0241d995",
+        "type": "video-poster",
+        "outputs": [
+          "newportbeachtourism/newport-beach-lido-rooftop-poster.jpg"
+        ]
+      },
+      {
+        "name": "newport-beach-surfboard.mp4",
+        "slug": "newport-beach-surfboard",
+        "hash": "6c925e18d1887ec5e37f8f9c152be71c",
+        "type": "video-poster",
+        "outputs": [
+          "newportbeachtourism/newport-beach-surfboard-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "optinose": {
+    "projectName": "Optinose",
+    "assets": [
+      {
+        "name": "fingerpaint.mp4",
+        "slug": "fingerpaint",
+        "hash": "1b83db41775a314232cc0902df26ad9f",
+        "type": "video-poster",
+        "outputs": [
+          "optinose/fingerpaint-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "oura": {
+    "projectName": "Oura",
+    "assets": [
+      {
+        "name": "holiday-party.mp4",
+        "slug": "holiday-party",
+        "hash": "c22a4e63846fa0e0f8eb2623bee492c4",
+        "type": "video-poster",
+        "outputs": [
+          "oura/holiday-party-poster.jpg"
+        ]
+      },
+      {
+        "name": "holiday-yard-work.mp4",
+        "slug": "holiday-yard-work",
+        "hash": "68c0f683644aa8840b3594c85d018edc",
+        "type": "video-poster",
+        "outputs": [
+          "oura/holiday-yard-work-poster.jpg"
+        ]
+      },
+      {
+        "name": "meditation-giftwrap.mp4",
+        "slug": "meditation-giftwrap",
+        "hash": "8948a70ddd9922f39216b4630bb78d94",
+        "type": "video-poster",
+        "outputs": [
+          "oura/meditation-giftwrap-poster.jpg"
+        ]
+      },
+      {
+        "name": "santas-nap.mp4",
+        "slug": "santas-nap",
+        "hash": "2082e4b978a38312aa5f02abbda0a3df",
+        "type": "video-poster",
+        "outputs": [
+          "oura/santas-nap-poster.jpg"
+        ]
+      },
+      {
+        "name": "sleep-sounds.mp4",
+        "slug": "sleep-sounds",
+        "hash": "8166e008a0ef67d9b41093b9e75efa49",
+        "type": "video-poster",
+        "outputs": [
+          "oura/sleep-sounds-poster.jpg"
+        ]
+      },
+      {
+        "name": "workout-pingpong.mp4",
+        "slug": "workout-pingpong",
+        "hash": "a52b5a6c8d3f70091390906ac5a8ee0f",
+        "type": "video-poster",
+        "outputs": [
+          "oura/workout-pingpong-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "presideotheatre": {
+    "projectName": "PresideoTheatre",
+    "assets": [
+      {
+        "name": "presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2.jpeg",
+        "slug": "presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2",
+        "hash": "7fa7c508cb480c528f6cf977aeb6edff",
+        "type": "image",
+        "width": 1900,
+        "height": 1279,
+        "outputs": [
+          "presideotheatre/presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2-400.webp",
+          "presideotheatre/presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2-400.jpg",
+          "presideotheatre/presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2-1200.webp",
+          "presideotheatre/presidio-theatre-magic-lamp-ca7367-0988d0e7918443cc8ce5f8c497ec6231-mv2-1200.jpg"
+        ]
+      },
+      {
+        "name": "presidio-theatre-magic-lamp-presidiotheater-13-client-layered-thumb.jpg",
+        "slug": "presidio-theatre-magic-lamp-presidiotheater-13-client-layered-thumb",
+        "hash": "dc7f98e7d9743c423845da00e10a4813",
+        "type": "image",
+        "width": 883,
+        "height": 858,
+        "outputs": [
+          "presideotheatre/presidio-theatre-magic-lamp-presidiotheater-13-client-layered-thumb-400.webp",
+          "presideotheatre/presidio-theatre-magic-lamp-presidiotheater-13-client-layered-thumb-400.jpg"
+        ]
+      }
+    ]
+  },
+  "prolia": {
+    "projectName": "Prolia",
+    "assets": [
+      {
+        "name": "tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2.jpg",
+        "slug": "tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2",
+        "hash": "2610eb65594d35781460ff8a785212a2",
+        "type": "image",
+        "width": 2213,
+        "height": 1474,
+        "outputs": [
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2-400.webp",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2-400.jpg",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2-1200.webp",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-2-1200.jpg"
+        ]
+      },
+      {
+        "name": "tbwa-prolia-drone-plates-city-dji-0045-11-j1-us.jpg",
+        "slug": "tbwa-prolia-drone-plates-city-dji-0045-11-j1-us",
+        "hash": "e0849355340823ff47de25d6a3858303",
+        "type": "image",
+        "width": 2213,
+        "height": 1474,
+        "outputs": [
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-400.webp",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-400.jpg",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-1200.webp",
+          "prolia/tbwa-prolia-drone-plates-city-dji-0045-11-j1-us-1200.jpg"
+        ]
+      },
+      {
+        "name": "tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured.jpg",
+        "slug": "tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured",
+        "hash": "f81f0bc83ea614fddc99ecfe91a0db0e",
+        "type": "image",
+        "width": 2032,
+        "height": 2032,
+        "outputs": [
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured-400.webp",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured-400.jpg",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured-1200.webp",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-featured-1200.jpg"
+        ]
+      },
+      {
+        "name": "tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us.jpg",
+        "slug": "tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us",
+        "hash": "46ac4f769348b05b6ef5109466372850",
+        "type": "image",
+        "width": 3000,
+        "height": 2032,
+        "outputs": [
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-400.webp",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-400.jpg",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-1200.webp",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-1200.jpg",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-2400.webp",
+          "prolia/tbwa-prolia-plates-70a4440-14-3-a2-jpac-sl-male-us-2400.jpg"
+        ]
+      },
+      {
+        "name": "tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu.jpg",
+        "slug": "tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu",
+        "hash": "84e30895ad4c3a6dd77515d6bec1940c",
+        "type": "image",
+        "width": 2941,
+        "height": 1955,
+        "outputs": [
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-400.webp",
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-400.jpg",
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-1200.webp",
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-1200.jpg",
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-2400.webp",
+          "prolia/tbwa-prolia-stonebridge-angle3-2v2v2-e2-eu-2400.jpg"
+        ]
+      }
+    ]
+  },
+  "quakerricesnacks": {
+    "projectName": "QuakerRiceSnacks",
+    "assets": [
+      {
+        "name": "kelsey-mcclellan-quaker-igquaker-talent-1-cheddar-0513.gif",
+        "slug": "kelsey-mcclellan-quaker-igquaker-talent-1-cheddar-0513",
+        "hash": "4499f9842f1fd59c4f528cbc975e29aa",
+        "type": "gif",
+        "width": 1500,
+        "height": 1875,
+        "outputs": [
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-1-cheddar-0513.gif"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311.jpg",
+        "slug": "kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311",
+        "hash": "8264f54cd3d98340eb04005e11bc2623",
+        "type": "image",
+        "width": 1500,
+        "height": 1875,
+        "outputs": [
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311-400.webp",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311-400.jpg",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311-1200.webp",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0311-1200.jpg"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355.jpg",
+        "slug": "kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355",
+        "hash": "af5710475cc4d71255fa0903b76be659",
+        "type": "image",
+        "width": 1500,
+        "height": 1875,
+        "outputs": [
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355-400.webp",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355-400.jpg",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355-1200.webp",
+          "quakerricesnacks/kelsey-mcclellan-quaker-igquaker-talent-2-sourcreamandchive-0355-1200.jpg"
+        ]
+      }
+    ]
+  },
+  "resortworld": {
+    "projectName": "ResortWorld",
+    "assets": [
+      {
+        "name": "hooray-resortworld-lv-service-water2-14-flat.jpg",
+        "slug": "hooray-resortworld-lv-service-water2-14-flat",
+        "hash": "998718bb20e2d064b9b045ffb0c4b194",
+        "type": "image",
+        "width": 3000,
+        "height": 1775,
+        "outputs": [
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-400.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-1200.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-1200.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-2400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-14-flat-2400.jpg"
+        ]
+      },
+      {
+        "name": "hooray-resortworld-lv-service-water2-close-up-2-16-9.jpg",
+        "slug": "hooray-resortworld-lv-service-water2-close-up-2-16-9",
+        "hash": "7abc7ccc22f2ef1ff1cbf64b0f316fd8",
+        "type": "image",
+        "width": 2972,
+        "height": 1743,
+        "outputs": [
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-400.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-1200.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-1200.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-2400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-16-9-2400.jpg"
+        ]
+      },
+      {
+        "name": "hooray-resortworld-lv-service-water2-close-up-2.jpg",
+        "slug": "hooray-resortworld-lv-service-water2-close-up-2",
+        "hash": "20e349af5d27b233431ec8e9d1ec718c",
+        "type": "image",
+        "width": 3000,
+        "height": 2312,
+        "outputs": [
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-400.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-1200.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-1200.jpg",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-2400.webp",
+          "resortworld/hooray-resortworld-lv-service-water2-close-up-2-2400.jpg"
+        ]
+      },
+      {
+        "name": "resortworldlasvegas-entertainment-sky-1-16-flat.jpg",
+        "slug": "resortworldlasvegas-entertainment-sky-1-16-flat",
+        "hash": "ef3fda29e7d242b65ded6cf9bba93545",
+        "type": "image",
+        "width": 3000,
+        "height": 1776,
+        "outputs": [
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-400.webp",
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-400.jpg",
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-1200.webp",
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-1200.jpg",
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-2400.webp",
+          "resortworld/resortworldlasvegas-entertainment-sky-1-16-flat-2400.jpg"
+        ]
+      },
+      {
+        "name": "vegas-entertainment.mov",
+        "slug": "vegas-entertainment",
+        "hash": "101ea5b4d6019655411107ddfeb575e5",
+        "type": "video-poster",
+        "outputs": [
+          "resortworld/vegas-entertainment-poster.jpg"
+        ]
+      },
+      {
+        "name": "vegas-pool.mov",
+        "slug": "vegas-pool",
+        "hash": "6fd727fb040754389c1546177e4f65e2",
+        "type": "video-poster",
+        "outputs": [
+          "resortworld/vegas-pool-poster.jpg"
+        ]
+      }
+    ]
+  },
+  "sonic": {
+    "projectName": "Sonic",
+    "assets": [
+      {
+        "name": "kelsey-mcclellan-sonic-km-sonic-gif-1.gif",
+        "slug": "kelsey-mcclellan-sonic-km-sonic-gif-1",
+        "hash": "09a413eedf931346b08ca90f5a9d7369",
+        "type": "gif",
+        "width": 600,
+        "height": 600,
+        "outputs": [
+          "sonic/kelsey-mcclellan-sonic-km-sonic-gif-1.gif"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-sonic-km-sonic-gif-2.gif",
+        "slug": "kelsey-mcclellan-sonic-km-sonic-gif-2",
+        "hash": "bbccfdb33ec1ab2763e76d4868ab51d8",
+        "type": "gif",
+        "width": 600,
+        "height": 600,
+        "outputs": [
+          "sonic/kelsey-mcclellan-sonic-km-sonic-gif-2.gif"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-sonic-km-sonic-gif-3.gif",
+        "slug": "kelsey-mcclellan-sonic-km-sonic-gif-3",
+        "hash": "faeafea1562dd442577b5f7555913657",
+        "type": "gif",
+        "width": 600,
+        "height": 600,
+        "outputs": [
+          "sonic/kelsey-mcclellan-sonic-km-sonic-gif-3.gif"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-sonic-km-sonic-gif-4.gif",
+        "slug": "kelsey-mcclellan-sonic-km-sonic-gif-4",
+        "hash": "322854c28a30d67fa62006c0a30c5fca",
+        "type": "gif",
+        "width": 600,
+        "height": 600,
+        "outputs": [
+          "sonic/kelsey-mcclellan-sonic-km-sonic-gif-4.gif"
+        ]
+      },
+      {
+        "name": "kelsey-mcclellan-sonic-km-sonic-gif.gif",
+        "slug": "kelsey-mcclellan-sonic-km-sonic-gif",
+        "hash": "b95a99ebe4edf62834301951f1ded2cc",
+        "type": "gif",
+        "width": 600,
+        "height": 600,
+        "outputs": [
+          "sonic/kelsey-mcclellan-sonic-km-sonic-gif.gif"
+        ]
+      }
+    ]
+  },
+  "straus": {
+    "projectName": "Straus",
+    "assets": [
+      {
+        "name": "2021-ad-mockup-tilted-1920x1280.jpeg",
+        "slug": "2021-ad-mockup-tilted-1920x1280",
+        "hash": "8568c48eec08438c8c71b7fde31b6901",
+        "type": "image",
+        "width": 1920,
+        "height": 1280,
+        "outputs": [
+          "straus/2021-ad-mockup-tilted-1920x1280-400.webp",
+          "straus/2021-ad-mockup-tilted-1920x1280-400.jpg",
+          "straus/2021-ad-mockup-tilted-1920x1280-1200.webp",
+          "straus/2021-ad-mockup-tilted-1920x1280-1200.jpg"
+        ]
+      },
+      {
+        "name": "campaign-organic-farming-billboard-1920x1292.jpeg",
+        "slug": "campaign-organic-farming-billboard-1920x1292",
+        "hash": "aa1956b42e086a5e8325ee8c6e767f13",
+        "type": "image",
+        "width": 1920,
+        "height": 1292,
+        "outputs": [
+          "straus/campaign-organic-farming-billboard-1920x1292-400.webp",
+          "straus/campaign-organic-farming-billboard-1920x1292-400.jpg",
+          "straus/campaign-organic-farming-billboard-1920x1292-1200.webp",
+          "straus/campaign-organic-farming-billboard-1920x1292-1200.jpg"
+        ]
+      }
+    ]
+  },
+  "toyota": {
+    "projectName": "Toyota",
+    "assets": [
+      {
+        "name": "crown-signia-effortless-elegance.mp4",
+        "slug": "crown-signia-effortless-elegance",
+        "hash": "238f66c330626d8b932ba5e4da4b02b0",
+        "type": "video-poster",
+        "outputs": [
+          "toyota/crown-signia-effortless-elegance-poster.jpg"
+        ]
+      },
+      {
+        "name": "land-cruiser-mountain-cliff.mp4",
+        "slug": "land-cruiser-mountain-cliff",
+        "hash": "fa9220178cf7a8de6fa5ab96ce7e1c4f",
+        "type": "video-poster",
+        "outputs": [
+          "toyota/land-cruiser-mountain-cliff-poster.jpg"
+        ]
+      }
+    ]
+  }
+}

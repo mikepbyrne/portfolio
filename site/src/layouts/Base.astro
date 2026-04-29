@@ -1,0 +1,124 @@
+---
+import '../styles/global.css';
+const { title = 'Mike Byrne — Senior Producer', description = 'Senior Producer specializing in commercial production for video and stills. Selected works.' } = Astro.props;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f4f1ea'/%3E%3Ctext x='50%25' y='66%25' font-family='Times New Roman' font-style='italic' font-size='22' text-anchor='middle' fill='%23111'%3EM%3C/text%3E%3C/svg%3E" />
+  </head>
+  <body>
+    <header class="site-header" id="site-header">
+      <a href={import.meta.env.BASE_URL} class="name">Mike Byrne</a>
+      <span class="tagline" aria-hidden="true">Senior Producer — commercial production · motion &amp; stills</span>
+      <nav>
+        <a href={import.meta.env.BASE_URL}>Index</a>
+        <a href="mailto:mikepbyrne@icloud.com">Email</a>
+        <a href="tel:+14157979915">Call</a>
+      </nav>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div>Mike Byrne — Senior Producer</div>
+      <div>
+        <a href="mailto:mikepbyrne@icloud.com">mikepbyrne@icloud.com</a>
+        &nbsp;·&nbsp;
+        <a href="tel:+14157979915">(415) 797-9915</a>
+      </div>
+    </footer>
+
+    <div class="hud" id="hud" aria-hidden="true"></div>
+
+    <script>
+      // Visitor beacon — fires once per page load
+      (() => {
+        if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') return;
+        try {
+          const payload = {
+            page: location.pathname + location.search,
+            referrer: document.referrer || '',
+            vp: `${window.innerWidth}x${window.innerHeight}`,
+            lang: navigator.language || '',
+            tz: Intl.DateTimeFormat().resolvedOptions().timeZone || '',
+          };
+          const body = JSON.stringify(payload);
+          const url = 'https://portfolio-tracker.mikepbyrne.workers.dev/track';
+          if (navigator.sendBeacon) {
+            navigator.sendBeacon(url, new Blob([body], { type: 'application/json' }));
+          } else {
+            fetch(url, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body, keepalive: true }).catch(() => {});
+          }
+        } catch {}
+      })();
+    </script>
+    <script>
+      // Sticky header scroll state + dynamic header height
+      const header = document.getElementById('site-header');
+      function setHeaderHeight() {
+        if (!header) return;
+        document.documentElement.style.setProperty('--header-h', header.offsetHeight + 'px');
+      }
+      function updateScrollState() {
+        if (!header) return;
+        if (window.scrollY > 80) header.classList.add('scrolled');
+        else header.classList.remove('scrolled');
+        setHeaderHeight();
+      }
+      setHeaderHeight();
+      updateScrollState();
+      window.addEventListener('scroll', updateScrollState, { passive: true });
+      window.addEventListener('resize', setHeaderHeight, { passive: true });
+      document.addEventListener('astro:after-swap', () => {
+        updateScrollState();
+        bind();
+      });
+
+      // Cursor metadata HUD - the single tech detail
+      const hud = document.getElementById('hud');
+      let raf = 0;
+      let x = 0, y = 0;
+      function tick() {
+        if (hud) hud.style.transform = `translate3d(${x + 18}px, ${y + 18}px, 0)`;
+        raf = 0;
+      }
+      window.addEventListener('pointermove', e => {
+        x = e.clientX; y = e.clientY;
+        if (!raf) raf = requestAnimationFrame(tick);
+      });
+      function bind() {
+        document.querySelectorAll('[data-meta]').forEach(el => {
+          el.addEventListener('pointerenter', () => {
+            if (hud) {
+              hud.textContent = el.getAttribute('data-meta') || '';
+              hud.classList.add('on');
+            }
+          });
+          el.addEventListener('pointerleave', () => {
+            if (hud) hud.classList.remove('on');
+          });
+        });
+      }
+      bind();
+
+      // Image protection: block right-click + drag on images
+      document.addEventListener('contextmenu', e => {
+        if (e.target && (e.target.tagName === 'IMG' || e.target.closest('.asset, .preview-pane'))) {
+          e.preventDefault();
+        }
+      });
+      document.addEventListener('dragstart', e => {
+        if (e.target && (e.target.tagName === 'IMG' || e.target.closest('.asset, .preview-pane'))) {
+          e.preventDefault();
+        }
+      });
+    </script>
+  </body>
+</html>
