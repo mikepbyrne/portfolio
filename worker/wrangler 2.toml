@@ -1,0 +1,15 @@
+name = "portfolio-tracker"
+main = "src/index.ts"
+compatibility_date = "2025-04-01"
+
+# 30-minute session bucket: KV namespace stores visits per IP, summary email sent on TTL expiry via cron
+[[kv_namespaces]]
+binding = "VISITS"
+id = "dbb30737185e4cb58f23f9e1860d7c6d"
+
+[vars]
+EMAIL_TO = "mikepbyrne@icloud.com"
+EMAIL_FROM = "Portfolio <onboarding@resend.dev>"
+
+[triggers]
+crons = ["*/2 * * * *"]
